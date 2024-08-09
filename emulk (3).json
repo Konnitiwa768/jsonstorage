@@ -231,6 +231,22 @@
     {"entry": {"id": 196, "form": "loria"}, "translations": [{"title": "名詞", "forms": ["光", "輝き"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "明るく輝くもの。"}], "variations": [], "relations": []},
     {"entry": {"id": 197, "form": "aldoria"}, "translations": [{"title": "名詞", "forms": ["古代", "遺跡"]}], "tags": ["歴史"], "contents": [{"title": "定義", "text": "古代の文明に関する遺跡や物。"}], "variations": [], "relations": []},
     {"entry": {"id": 198, "form": "veronia"}, "translations": [{"title": "名詞", "forms": ["おしっこ", "尿"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "高くそびえる地形。"}], "variations": [], "relations": []},
-    {"entry": {"id": 199, "form": "silvara"}, "translations": [{"title": "名詞", "forms": ["彪", "虎"]}], "tags": ["物質"], "contents": [{"title": "定義", "text": "光沢のある金属。"}], "variations": [], "relations": []}
+    {"entry": {"id": 199, "form": "silvara"}, "translations": [{"title": "名詞", "forms": ["彪", "虎"]}], "tags": ["物質"], "contents": [{"title": "定義", "text": "光沢のある金属。"}], "variations": [], "relations": []},
+    {"entry": {"id": 201, "form": " -ka"}, "translations": [{"title": "接尾辞", "forms": ["現在形", "動作"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の現在形を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 202, "form": " -na"}, "translations": [{"title": "接尾辞", "forms": ["進行形", "動作中"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の進行形や動作中の状態を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 203, "form": " -ra"}, "translations": [{"title": "接尾辞", "forms": ["習慣", "一般的"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の習慣的な行動や一般的な状態を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 204, "form": " -ta"}, "translations": [{"title": "接尾辞", "forms": ["過去形", "完了"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の過去形や完了を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 205, "form": " -la"}, "translations": [{"title": "接尾辞", "forms": ["未来形", "予定"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の未来形や予定を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 206, "form": " -ma"}, "translations": [{"title": "接尾辞", "forms": ["意志", "希望"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の意志や希望を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 207, "form": " -sa"}, "translations": [{"title": "接尾辞", "forms": ["命令形", "指示"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の命令形や指示を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 208, "form": " -fa"}, "translations": [{"title": "接尾辞", "forms": ["可能性", "推測"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の可能性や推測を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 209, "form": " -za"}, "translations": [{"title": "接尾辞", "forms": ["条件", "仮定"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の条件や仮定を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 210, "form": " -wa"}, "translations": [{"title": "接尾辞", "forms": ["推量", "願望"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の推量や願望を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 211, "form": " -elir"}, "translations": [{"title": "接尾辞", "forms": ["受動態", "受け身"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の受動態や受け身を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 212, "form": " -tlie"}, "translations": [{"title": "接尾辞", "forms": ["使役", "命令"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の使役や命令を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 213, "form": " -at"}, "translations": [{"title": "接尾辞", "forms": ["強調", "集中"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の強調や集中を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 214, "form": " -et"}, "translations": [{"title": "接尾辞", "forms": ["尊敬", "丁寧"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の尊敬や丁寧さを示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 215, "form": " -mber"}, "translations": [{"title": "接尾辞", "forms": ["命令", "指示"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の命令形や指示を示す接尾辞。"}], "variations": [], "relations": []},
+    {"entry": {"id": 216, "form": " -des"}, "translations": [{"title": "接尾辞", "forms": ["感情", "強調"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の感情表現や強調を示す接尾辞。"}], "variations": [], "relations": []}
 ]
 ]}
