@@ -111,7 +111,7 @@
     {"entry": {"id": 109, "form": "dunar"}, "translations": [{"title": "名詞", "forms": ["丘", "高地"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "地表の隆起した部分。"}], "variations": [], "relations": []},
     {"entry": {"id": 110, "form": "fomar"}, "translations": [{"title": "名詞", "forms": ["火", "炎"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "燃焼によって発生する熱と光。"}], "variations": [], "relations": []},
     {"entry": {"id": 111, "form": "zevar"}, "translations": [{"title": "名詞", "forms": ["星", "天体"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "宇宙に存在する輝く天体。"}], "variations": [], "relations": []},
-    {"entry": {"id": 112, "form": "haran"}, "translations": [{"title": "名詞", "forms": [”tafaron", "凝灰岩"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "固い鉱物の塊。"}], "variations": [], "relations": []},
+    {"entry": {"id": 112, "form": "haran"}, "translations": [{"title": "名詞", "forms": ["tafaron", "凝灰岩"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "固い鉱物の塊。"}], "variations": [], "relations": []},
     {"entry": {"id": 113, "form": "clina"}, "translations": [{"title": "名詞", "forms": ["砂", "砂浜"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "細かい粒の堆積物。"}], "variations": [], "relations": []},
     {"entry": {"id": 114, "form": "xavor"}, "translations": [{"title": "名詞", "forms": ["島", "陸地"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "海に囲まれた陸地。"}], "variations": [], "relations": []},
     {"entry": {"id": 115, "form": "garel"}, "translations": [{"title": "名詞", "forms": ["丘", "山"]}], "tags": ["自然"], "contents": [{"title": "定義", "text": "高く盛り上がった地形。"}], "variations": [], "relations": []},
