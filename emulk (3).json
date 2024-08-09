@@ -248,5 +248,5 @@
     {"entry": {"id": 214, "form": " -et"}, "translations": [{"title": "接尾辞", "forms": ["尊敬", "丁寧"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の尊敬や丁寧さを示す接尾辞。"}], "variations": [], "relations": []},
     {"entry": {"id": 215, "form": " -mber"}, "translations": [{"title": "接尾辞", "forms": ["命令", "指示"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の命令形や指示を示す接尾辞。"}], "variations": [], "relations": []},
     {"entry": {"id": 216, "form": " -des"}, "translations": [{"title": "接尾辞", "forms": ["感情", "強調"]}], "tags": ["動詞"], "contents": [{"title": "定義", "text": "動詞の感情表現や強調を示す接尾辞。"}], "variations": [], "relations": []}
-]
-]}
+          ]
+}
