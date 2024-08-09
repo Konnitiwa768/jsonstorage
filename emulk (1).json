@@ -1,0 +1,1055 @@
+{
+  "words": [
+    {
+      "entry": {
+        "id": 51,
+        "form": "veran"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["春", "新年"]
+        }
+      ],
+      "tags": ["季節"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "気温が上昇し、植物が成長する時期。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 52,
+        "form": "almo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["食事", "料理"]
+        }
+      ],
+      "tags": ["生活"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "人間が摂取する食物。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 53,
+        "form": "gova"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["進む", "移動する"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "ある場所から別の場所へ移ること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 54,
+        "form": "morta"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["死んだ", "絶えた"]
+        }
+      ],
+      "tags": ["形容詞"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "生命が存在しない状態。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 55,
+        "form": "nova"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["星", "新星"]
+        }
+      ],
+      "tags": ["天体"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "宇宙で明るく輝く天体。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 56,
+        "form": "dara"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["水", "液体"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "無色、無臭の液体。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 57,
+        "form": "pella"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["風", "気流"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "空気の流れ。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 58,
+        "form": "riva"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["流れる", "流出する"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "液体や気体が動くこと。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 59,
+        "form": "tiva"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["時間", "期間"]
+        }
+      ],
+      "tags": ["時間"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "出来事が起こる長さや間隔。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 60,
+        "form": "vire"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["音楽", "メロディ"]
+        }
+      ],
+      "tags": ["芸術"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "音の組み合わせによる芸術形式。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 61,
+        "form": "bora"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["飛ぶ", "移動する"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "空中を移動すること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 62,
+        "form": "kora"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["音", "声"]
+        }
+      ],
+      "tags": ["感覚"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "耳に聞こえる振動や波。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 63,
+        "form": "felo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["花", "植物"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "植物の繁殖機能を持つ部分。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 64,
+        "form": "naro"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["大きい", "広い"]
+        }
+      ],
+      "tags": ["形容詞"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "物理的な大きさや範囲が広い状態。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 65,
+        "form": "siva"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["考える", "思索する"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "思考を通じて判断や決定をすること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 66,
+        "form": "tura"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["力", "エネルギー"]
+        }
+      ],
+      "tags": ["力"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "物理的または精神的な能力。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 67,
+        "form": "zora"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["宇宙", "天体"]
+        }
+      ],
+      "tags": ["天体"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "地球を超えた広大な空間。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 68,
+        "form": "kima"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["山", "丘"]
+        }
+      ],
+      "tags": ["地形"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "地表の隆起した部分。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 69,
+        "form": "poma"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["果物", "実"]
+        }
+      ],
+      "tags": ["食物"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "植物が成熟してできる食物。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 70,
+        "form": "mura"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["街", "都市"]
+        }
+      ],
+      "tags": ["場所"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "人が集まる居住区域。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 71,
+        "form": "vela"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["伝える", "告げる"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "情報や感情を他者に届けること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 72,
+        "form": "laura"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["光", "明かり"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "視覚的に感知できるエネルギー。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 73,
+        "form": "rato"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["道具", "器具"]
+        }
+      ],
+      "tags": ["道具"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "物を作業するための手段。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 74,
+        "form": "cora"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["色", "色彩"]
+        }
+      ],
+      "tags": ["感覚"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "光の波長による視覚的な印象。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 75,
+        "form": "zula"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["風景", "景色"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "視界に広がる自然の様子。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 76,
+        "form": "toma"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["力", "エネルギー"]
+        }
+      ],
+      "tags": ["力"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "物理的または精神的な能力。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 77,
+        "form": "vosa"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["心", "精神"]
+        }
+      ],
+      "tags": ["感情"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "意識や感情の中心。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 78,
+        "form": "mera"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["神", "神々"]
+        }
+      ],
+      "tags": ["宗教"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "超自然的な存在や力を持つ存在。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 79,
+        "form": "selo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["国", "国家"]
+        }
+      ],
+      "tags": ["社会"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "一定の領域を持つ政治的単位。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 80,
+        "form": "taro"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["市場", "商業"]
+        }
+      ],
+      "tags": ["経済"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "物やサービスが売買される場所。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 81,
+        "form": "lumi"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["光景", "景観"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "視覚的に感じる周囲の様子。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 82,
+        "form": "zita"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["探す", "捜索する"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "何かを見つけるために探ること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 83,
+        "form": "tara"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["記録", "文書"]
+        }
+      ],
+      "tags": ["文書"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "情報や出来事を記録したもの。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 84,
+        "form": "riva"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["川", "流れ"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "水が流れる地形の一部。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 85,
+        "form": "firo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["火", "炎"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "燃焼によって生じる光と熱。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 86,
+        "form": "sanu"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["音", "音響"]
+        }
+      ],
+      "tags": ["感覚"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "音として知覚される振動。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 87,
+        "form": "dali"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["日", "太陽"]
+        }
+      ],
+      "tags": ["天体"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "昼間に光をもたらす天体。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 88,
+        "form": "kael"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["空", "大気"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "地球を取り囲む気体の層。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 89,
+        "form": "lemu"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["木", "樹木"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "地上に生える植物。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 90,
+        "form": "xora"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["動物", "生物"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "生きている有機体。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 91,
+        "form": "zima"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["冬", "寒さ"]
+        }
+      ],
+      "tags": ["季節"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "寒冷な季節。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 92,
+        "form": "rova"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["石", "岩"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "固体の鉱物質。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 93,
+        "form": "lura"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["音楽", "メロディ"]
+        }
+      ],
+      "tags": ["芸術"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "音の組み合わせによる芸術形式。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 94,
+        "form": "soro"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["雪", "氷"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "氷の結晶が集まったもの。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 95,
+        "form": "poli"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["石", "礫"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "小さな岩の粒。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 96,
+        "form": "lima"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["手", "腕"]
+        }
+      ],
+      "tags": ["身体"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "物を持つための身体の部分。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 97,
+        "form": "kora"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["心", "精神"]
+        }
+      ],
+      "tags": ["感情"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "感情や思考の中心。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 98,
+        "form": "bira"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["燃える", "焼ける"]
+        }
+      ],
+      "tags": ["動作"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "熱を発生させながら化学変化すること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 99,
+        "form": "vela"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["電気", "エネルギー"]
+        }
+      ],
+      "tags": ["科学"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "電荷の流れによるエネルギー。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 100,
+        "form": "jena"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["日光", "光"]
+        }
+      ],
+      "tags": ["自然"],
+      "contents": [
+        {
+          "title": "定義",
+          "text": "太陽からの光。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    }
+  ],
+  }
+}
