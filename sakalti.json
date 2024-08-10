@@ -101,5 +101,4 @@
     {"entry": {"id": 99, "form": "telar"}, "translations": [{"title": "形容詞", "forms": ["柔らかい"]}], "tags": ["属性"], "contents": [{"title": "定義", "text": "物質が非常に柔らかく、弾力性があること。"}], "variations": [], "relations": []},
     {"entry": {"id": 100, "form": "vorar"}, "translations": [{"title": "形容詞", "forms": ["硬い"]}], "tags": ["属性"], "contents": [{"title": "定義", "text": "物質が非常に固く、弾力性が少ないこと。"}], "variations": [], "relations": []}
   ]
-  ]
 }
