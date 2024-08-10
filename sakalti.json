@@ -1,5 +1,5 @@
 {
-  "entries": [
+  "words": [
     {"entry": {"id": 1, "form": "nir"}, "translations": [{"title": "動詞", "forms": ["生きる"]}], "tags": ["動作"], "contents": [{"title": "定義", "text": "生命を維持すること。"}], "variations": [], "relations": []},
     {"entry": {"id": 2, "form": "kith"}, "translations": [{"title": "動詞", "forms": ["死ぬ"]}], "tags": ["動作"], "contents": [{"title": "定義", "text": "生命が終わること。"}], "variations": [], "relations": []},
     {"entry": {"id": 3, "form": "len"}, "translations": [{"title": "動詞", "forms": ["寝る"]}], "tags": ["動作"], "contents": [{"title": "定義", "text": "休息のために横になること。"}], "variations": [], "relations": []},
