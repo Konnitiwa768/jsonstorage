@@ -175,5 +175,5 @@
     {"entry": {"id": 173, "form": "sevur"}, "translations": [{"title": "名詞", "forms": ["時計"]}], "tags": ["日用品"], "contents": [{"title": "定義", "text": "時間を計測するための装置。"}], "variations": [], "relations": []},
     {"entry": {"id": 174, "form": "zymer"}, "translations": [{"title": "名詞", "forms": ["懐中電灯"]}], "tags": ["日用品"], "contents": [{"title": "定義", "text": "光を発するポータブルな装置。"}], "variations": [], "relations": []},
     {"entry": {"id": 175, "form": "venar"}, "translations": [{"title": "名詞", "forms": ["扇子"]}], "tags": ["日用品"], "contents": [{"title": "定義", "text": "手で動かして風を起こすための道具。"}], "variations": [], "relations": []}
-    ]
+           ]
 }
