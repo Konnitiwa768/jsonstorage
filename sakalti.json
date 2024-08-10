@@ -126,7 +126,7 @@
     {"entry": {"id": 124, "form": "bira"}, "translations": [{"title": "名詞", "forms": ["ハリネズミ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "背中に針を持つ小型哺乳類。"}], "variations": [], "relations": []},
     {"entry": {"id": 125, "form": "cora"}, "translations": [{"title": "名詞", "forms": ["ノウサギ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "耳が長く、草食性の哺乳類。"}], "variations": [], "relations": []},
     {"entry": {"id": 126, "form": "dara"}, "translations": [{"title": "名詞", "forms": ["イヌワシ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "鋭い爪とくちばしを持つ猛禽類。"}], "variations": [], "relations": []},
-    {"entry": {"id": 127, "form": "era"}, "translations": [{"title": "名詞", "forms": ["タカ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "優れた視力を持つ鳥類。"}], "variations": [], "relations": []}},
+    {"entry": {"id": 127, "form": "era"}, "translations": [{"title": "名詞", "forms": ["タカ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "優れた視力を持つ鳥類。"}], "variations": [], "relations": []},
     {"entry": {"id": 128, "form": "fara"}, "translations": [{"title": "名詞", "forms": ["キツネ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "尾が長く、夜行性の哺乳類。"}], "variations": [], "relations": []},
     {"entry": {"id": 129, "form": "gira"}, "translations": [{"title": "名詞", "forms": ["シマウマ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "縞模様の体を持つ草食性哺乳類。"}], "variations": [], "relations": []},
     {"entry": {"id": 130, "form": "hera"}, "translations": [{"title": "名詞", "forms": ["ゴリラ"]}], "tags": ["生物", "動物"], "contents": [{"title": "定義", "text": "大型の猿で、強い体力を持つ。"}], "variations": [], "relations": []},
