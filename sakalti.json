@@ -1009,6 +1009,26 @@
 {"entry": {"id": 1040, "form": "madyenta"}, "translations": [{"title": "名詞", "forms": ["マゼンタ"]}], "tags": ["色"]},
 {"entry": {"id": 1041, "form": "vlak"}, "translations": [{"title": "名詞", "forms": ["黒"]}], "tags": ["色"]},
 {"entry": {"id": 1042, "form": "howett"}, "translations": [{"title": "名詞", "forms": ["白"]}], "tags": ["色"]},
-{"entry": {"id": 1043, "form": "guni"}, "translations": [{"title": "接尾辞", "forms": ["～国"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "固有名詞にくっつけて国をあらわす"}], "variations": [], "relations": []}
+{"entry": {"id": 1043, "form": "guni"}, "translations": [{"title": "接尾辞", "forms": ["～国"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "固有名詞にくっつけて国をあらわす"}], "variations": [], "relations": []},
+    {"entry": {"id": 1044, "form": "Seta"}, "translations": [{"title": "名詞", "forms": ["恒星"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "光を放つ天体で、宇宙の中で最も基本的な天体の一つ。"}]},
+    {"entry": {"id": 1045, "form": "Trimo"}, "translations": [{"title": "名詞", "forms": ["惑星"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "恒星の周りを回る天体で、地球や火星などが含まれる。"}]},
+    {"entry": {"id": 1046, "form": "Silio"}, "translations": [{"title": "名詞", "forms": ["銀河"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "多数の星が集まって形成される巨大な天体の集まり。"}]},
+    {"entry": {"id": 1047, "form": "Arashi"}, "translations": [{"title": "名詞", "forms": ["星座"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "星が特定のパターンを形成して配置される天体の配置。"}]},
+    {"entry": {"id": 1048, "form": "Casti"}, "translations": [{"title": "名詞", "forms": ["彗星"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "長い尾を持ち、太陽系を周回する天体。"}]},
+    {"entry": {"id": 1049, "form": "Volana"}, "translations": [{"title": "名詞", "forms": ["天体"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "宇宙に存在するあらゆる物体の総称。"}]},
+    {"entry": {"id": 1050, "form": "Nebira"}, "translations": [{"title": "名詞", "forms": ["宇宙"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "すべての天体が存在する広大な空間。"}]},
+    {"entry": {"id": 1051, "form": "Exna"}, "translations": [{"title": "名詞", "forms": ["衛星"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "惑星の周りを回る小さな天体。"}]},
+    {"entry": {"id": 1052, "form": "Ladis"}, "translations": [{"title": "名詞", "forms": ["流星"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "大気圏に突入して燃える小さな天体。"}]},
+    {"entry": {"id": 1053, "form": "Navara"}, "translations": [{"title": "名詞", "forms": ["超新星"]}], "tags": ["天文学"], "contents": [{"title": "定義", "text": "星が爆発的に明るくなり、その後急激に暗くなる現象。"}]},
+    {"entry": {"id": 1054, "form": "Orna"}, "translations": [{"title": "名詞", "forms": ["塔"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "高くそびえる建築物。"}]},
+    {"entry": {"id": 1055, "form": "Melta"}, "translations": [{"title": "名詞", "forms": ["城"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "防御を目的に建設された大きな建物。"}]},
+    {"entry": {"id": 1056, "form": "Kanto"}, "translations": [{"title": "名詞", "forms": ["橋"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "川や谷などを横断するために架けられた構造物。"}]},
+    {"entry": {"id": 1057, "form": "Shera"}, "translations": [{"title": "名詞", "forms": ["宮殿"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "豪華で広大な建物、主に王族や貴族が住むためのもの。"}]},
+    {"entry": {"id": 1058, "form": "Valk"}, "translations": [{"title": "名詞", "forms": ["寺院"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "宗教的な儀式が行われる建物。"}]},
+    {"entry": {"id": 1059, "form": "Lumo"}, "translations": [{"title": "名詞", "forms": ["門"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "建物や敷地の入り口に設けられる構造物。"}]},
+    {"entry": {"id": 1060, "form": "Filane"}, "translations": [{"title": "名詞", "forms": ["廃墟"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "長期間使われずに壊れた建物。"}]},
+    {"entry": {"id": 1061, "form": "Dorca"}, "translations": [{"title": "名詞", "forms": ["館"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "特に居住用の大きな建物。"}]},
+    {"entry": {"id": 1062, "form": "Serina"}, "translations": [{"title": "名詞", "forms": ["城壁"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "城や都市を防御するために設けられた壁。"}]},
+    {"entry": {"id": 1063, "form": "Bals"}, "translations": [{"title": "名詞", "forms": ["塔楼"]}], "tags": ["建築"], "contents": [{"title": "定義", "text": "塔のように高い建物。"}]}
            ]
 }
