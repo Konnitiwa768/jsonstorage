@@ -582,6 +582,19 @@
     {"entry": {"id": 580, "form": "kiwin"}, "translations": [{"title": "名詞", "forms": ["キウイ"]}], "tags": ["果物"], "contents": [{"title": "定義", "text": "茶色い皮と緑色の果肉を持つ果実。"}], "variations": [], "relations": []},
     {"entry": {"id": 581, "form": "currin"}, "translations": [{"title": "名詞", "forms": ["カシス"]}], "tags": ["果物"], "contents": [{"title": "定義", "text": "黒い小さな果実を持つ。"}], "variations": [], "relations": []},
     {"entry": {"id": 582, "form": "cherryn"}, "translations": [{"title": "名詞", "forms": ["サクランボ"]}], "tags": ["果物"], "contents": [{"title": "定義", "text": "赤くて甘い果実。"}], "variations": [], "relations": []},
-    {"entry": {"id": 583, "form": "grapelin"}, "translations": [{"title": "名詞", "forms": ["スグリ"]}], "tags": ["果物"], "contents": [{"title": "定義", "text": "小さな酸っぱい果実を持つ。"}], "variations": [], "relations": []}
+    {"entry": {"id": 583, "form": "grapelin"}, "translations": [{"title": "名詞", "forms": ["スグリ"]}], "tags": ["果物"], "contents": [{"title": "定義", "text": "小さな酸っぱい果実を持つ。"}], "variations": [], "relations": []},
+    {"entry": {"id": 584, "form": "ta"}, "translations": [{"title": "接尾辞", "forms": ["過去"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "動詞の後ろにつけて、過去の時制を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 585, "form": "na"}, "translations": [{"title": "接尾辞", "forms": ["否定"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "形容詞や動詞の後ろにつけて、否定の意味を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 586, "form": "ri"}, "translations": [{"title": "接尾辞", "forms": ["現在"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "動詞の後ろにつけて、現在の時制を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 587, "form": "ka"}, "translations": [{"title": "接尾辞", "forms": ["疑問"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "文の末尾につけて、疑問の意味を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 588, "form": "me"}, "translations": [{"title": "接尾辞", "forms": ["名詞化"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "動詞や形容詞の後ろにつけて、名詞化する。"}], "variations": [], "relations": []},
+    {"entry": {"id": 589, "form": "ke"}, "translations": [{"title": "接尾辞", "forms": ["形容詞化"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "名詞の後ろにつけて、形容詞化する。"}], "variations": [], "relations": []},
+    {"entry": {"id": 590, "form": "po"}, "translations": [{"title": "接尾辞", "forms": ["副詞化"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "名詞や動詞の後ろにつけて、副詞化する。"}], "variations": [], "relations": []},
+    {"entry": {"id": 591, "form": "lo"}, "translations": [{"title": "接尾辞", "forms": ["連体詞化"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "名詞の後ろにつけて、連体詞化する。"}], "variations": [], "relations": []},
+    {"entry": {"id": 592, "form": "tae"}, "translations": [{"title": "接尾辞", "forms": ["命令"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "動詞の後ろにつけて、命令形を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 593, "form": "lu"}, "translations": [{"title": "接尾辞", "forms": ["接続"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "文の中で、接続の意味を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 594, "form": "ti"}, "translations": [{"title": "接尾辞", "forms": ["強調"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "形容詞や副詞の後ろにつけて、強調の意味を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 595, "form": "mi"}, "translations": [{"title": "接尾辞", "forms": ["比較"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "形容詞や副詞の後ろにつけて、比較の意味を示す。"}], "variations": [], "relations": []},
+    {"entry": {"id": 596, "form": "nao"}, "translations": [{"title": "接尾辞", "forms": ["強調"]}], "tags": ["文法"], "contents": [{"title": "定義", "text": "名詞や形容詞の後ろにつけて、強調の意味を示す。"}], "variations": [], "relations": []}
            ]
 }
