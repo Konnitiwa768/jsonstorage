@@ -673,6 +673,16 @@
     {"entry": {"id": 671, "form": "ziron"}, "translations": [{"title": "名詞", "forms": ["データ", "情報"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「データ」「情報」など。"}], "variations": [], "relations": []},
     {"entry": {"id": 672, "form": "avom"}, "translations": [{"title": "名詞", "forms": ["状況", "条件"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「状況」「条件」など。"}], "variations": [], "relations": []},
     {"entry": {"id": 673, "form": "ekorin"}, "translations": [{"title": "名詞", "forms": ["発展", "改善"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「発展」「改善」など。"}], "variations": [], "relations": []},
-    {"entry": {"id": 674, "form": "saar'il"}, "translations": [{"title": "名詞", "forms": ["統計", "データ"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「統計」「データ」など。"}], "variations": [], "relations": []}
+    {"entry": {"id": 674, "form": "saar'il"}, "translations": [{"title": "名詞", "forms": ["統計", "データ"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「統計」「データ」など。"}], "variations": [], "relations": []},
+    {"entry": {"id": 675, "form": "falan"}, "translations": [{"title": "名詞", "forms": ["魚"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "水中で泳ぐ魚類の一般名称。"}], "variations": [], "relations": []},
+    {"entry": {"id": 676, "form": "giran"}, "translations": [{"title": "名詞", "forms": ["軟体動物"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "イカやタコなどの柔らかい体を持つ水中生物。"}], "variations": [], "relations": []},
+    {"entry": {"id": 677, "form": "silkan"}, "translations": [{"title": "名詞", "forms": ["棘皮動物"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "ウニやヒトデなどの棘のある体を持つ生物。"}], "variations": [], "relations": []},
+    {"entry": {"id": 678, "form": "zolan"}, "translations": [{"title": "名詞", "forms": ["魚の一種"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "特定の特徴を持つ魚類の一種。"}], "variations": [], "relations": []},
+    {"entry": {"id": 679, "form": "marinax"}, "translations": [{"title": "名詞", "forms": ["貝殻"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "軟体動物が持つ堅い外殻。"}], "variations": [], "relations": []},
+    {"entry": {"id": 680, "form": "turin"}, "translations": [{"title": "名詞", "forms": ["ウニ"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "棘皮動物の一種で、硬い殻と棘を持つ。"}], "variations": [], "relations": []},
+    {"entry": {"id": 681, "form": "silar"}, "translations": [{"title": "名詞", "forms": ["海藻"]}], "tags": ["植物"], "contents": [{"title": "定義", "text": "海中で見られる植物性の生物。"}], "variations": [], "relations": []},
+    {"entry": {"id": 682, "form": "beloran"}, "translations": [{"title": "名詞", "forms": ["イカ"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "柔らかい体を持つ海洋生物で、触腕がある。"}], "variations": [], "relations": []},
+    {"entry": {"id": 683, "form": "lorinan"}, "translations": [{"title": "名詞", "forms": ["ヒトデ"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "棘皮動物の一種で、放射状に広がる腕を持つ。"}], "variations": [], "relations": []},
+    {"entry": {"id": 684, "form": "kalorin"}, "translations": [{"title": "名詞", "forms": ["クラゲ"]}], "tags": ["動物"], "contents": [{"title": "定義", "text": "水中で漂う、柔らかい体を持つ生物。"}], "variations": [], "relations": []}
            ]
 }
