@@ -673,6 +673,6 @@
     {"entry": {"id": 671, "form": "ziron"}, "translations": [{"title": "名詞", "forms": ["データ", "情報"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「データ」「情報」など。"}], "variations": [], "relations": []},
     {"entry": {"id": 672, "form": "avom"}, "translations": [{"title": "名詞", "forms": ["状況", "条件"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「状況」「条件」など。"}], "variations": [], "relations": []},
     {"entry": {"id": 673, "form": "ekorin"}, "translations": [{"title": "名詞", "forms": ["発展", "改善"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「発展」「改善」など。"}], "variations": [], "relations": []},
-    {"entry": {"id": 674, "form": "saar'il"}, "translations": [{"title": "名詞", "forms": ["統計", "データ"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「統計」「データ」など。"}], "variations": [], "relations": []},
+    {"entry": {"id": 674, "form": "saar'il"}, "translations": [{"title": "名詞", "forms": ["統計", "データ"]}], "tags": ["ニュース"], "contents": [{"title": "定義", "text": "名詞、文脈によって「統計」「データ」など。"}], "variations": [], "relations": []}
            ]
 }
