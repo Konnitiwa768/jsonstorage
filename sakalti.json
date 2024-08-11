@@ -1391,6 +1391,6 @@
     {"entry": {"id": 1475, "form": "Warden"}, "translations": [{"title": "名詞", "forms": ["警察署"]}], "tags": ["施設"], "contents": [{"title": "定義", "text": "警察業務が行われる場所。"}]},
     {"entry": {"id": 1476, "form": "Xenium"}, "translations": [{"title": "名詞", "forms": ["宿泊所"]}], "tags": ["施設"], "contents": [{"title": "定義", "text": "短期滞在するための場所。"}]},
     {"entry": {"id": 1477, "form": "Yorium"}, "translations": [{"title": "名詞", "forms": ["スポーツ施設"]}], "tags": ["施設"], "contents": [{"title": "定義", "text": "スポーツ活動が行われる場所。"}]},
-    {"entry": {"id": 1478, "form": "Zephire"}, "translations": [{"title": "名詞", "forms": ["会議室"]}], "tags": ["施設"], "contents": [{"title": "定義", "text": "会議や打ち合わせが行われる部屋。"}]},
+    {"entry": {"id": 1478, "form": "Zephire"}, "translations": [{"title": "名詞", "forms": ["会議室"]}], "tags": ["施設"], "contents": [{"title": "定義", "text": "会議や打ち合わせが行われる部屋。"}]}
            ]
 }
