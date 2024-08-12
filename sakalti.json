@@ -1680,5 +1680,5 @@
     {"entry": {"id": 1764, "form": "celiacbian"}, "translations": [{"title": "名詞", "forms": ["セリアック病"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "小麦グルテンに対する免疫反応によって発症する疾患。"}]},
     {"entry": {"id": 1765, "form": "asthmobian"}, "translations": [{"title": "名詞", "forms": ["喘息"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "気道が狭まり、呼吸が困難になる疾患。"}]},
     {"entry": {"id": 1766, "form": "bian", "translations": [{"title": "接尾辞", "forms": ["-疾患"]}], "tags": ["接尾辞"], "contents": [{"title": "定義", "text": "病気に関連する接尾辞。"}]}
-           ]
+  ]
 }
