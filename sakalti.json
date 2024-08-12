@@ -1644,7 +1644,7 @@
     {"entry": {"id": 1728, "form": "halithor"}, "translations": [{"title": "名詞", "forms": ["天体"]}], "tags": ["天体"], "contents": [{"title": "定義", "text": "神秘的な天体現象。"}]},
     {"entry": {"id": 1729, "form": "irithon"}, "translations": [{"title": "名詞", "forms": ["衣服"]}], "tags": ["衣服"], "contents": [{"title": "定義", "text": "古代の儀式で使用される衣服。"}]},
     {"entry": {"id": 1730, "form": "krython"}, "translations": [{"title": "名詞", "forms": ["料理"]}], "tags": ["料理"], "contents": [{"title": "定義", "text": "特殊な調理法で作られる料理。"}]},
-   {"entry": {"id": 1731, "form": "xathobian"}, "translations": [{"title": "名詞", "forms": ["炎症性疾患"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "体内で炎症が生じる疾患。"}]},
+    {"entry": {"id": 1731, "form": "xathobian"}, "translations": [{"title": "名詞", "forms": ["炎症性疾患"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "体内で炎症が生じる疾患。"}]},
     {"entry": {"id": 1732, "form": "muradobian"}, "translations": [{"title": "名詞", "forms": ["筋萎縮症"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "筋肉が萎縮していく疾患。"}]},
     {"entry": {"id": 1733, "form": "galmorbian"}, "translations": [{"title": "名詞", "forms": ["神経疾患"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "神経系に影響を与える疾患。"}]},
     {"entry": {"id": 1734, "form": "zarothbian"}, "translations": [{"title": "名詞", "forms": ["皮膚病"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "皮膚に発疹や炎症が生じる疾患。"}]},
@@ -1679,6 +1679,6 @@
     {"entry": {"id": 1763, "form": "mycobian"}, "translations": [{"title": "名詞", "forms": ["真菌症"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "真菌が原因で発症する疾患。"}]},
     {"entry": {"id": 1764, "form": "celiacbian"}, "translations": [{"title": "名詞", "forms": ["セリアック病"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "小麦グルテンに対する免疫反応によって発症する疾患。"}]},
     {"entry": {"id": 1765, "form": "asthmobian"}, "translations": [{"title": "名詞", "forms": ["喘息"]}], "tags": ["病気"], "contents": [{"title": "定義", "text": "気道が狭まり、呼吸が困難になる疾患。"}]},
-    {"entry": {"id": 1766, "form": "bian", "translations": [{"title": "接尾辞", "forms": ["-疾患"]}], "tags": ["接尾辞"], "contents": [{"title": "定義", "text": "病気に関連する接尾辞。"}]}
+    {"entry": {"id": 1766, "form": "bian"}, "translations": [{"title": "接尾辞", "forms": ["-疾患"]}], "tags": ["接尾辞"], "contents": [{"title": "定義", "text": "病気に関連する接尾辞。"}]}
   ]
 }
