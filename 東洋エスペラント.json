@@ -1,4 +1,5 @@
-[
+{
+  "words": [
     {"entry": {"id": 1, "form": "水/mizu", "translations": [{"title": "名詞", "forms": ["液体"]}], "tags": ["自然"]}},
     {"entry": {"id": 2, "form": "火/huo", "translations": [{"title": "名詞", "forms": ["燃える物"]}], "tags": ["自然"]}},
     {"entry": {"id": 3, "form": "木/mu", "translations": [{"title": "名詞", "forms": ["樹"]}], "tags": ["植物"]}},
@@ -49,4 +50,5 @@
     {"entry": {"id": 48, "form": "昼/zhi", "translations": [{"title": "名詞", "forms": ["昼"]}], "tags": ["時間"]}},
     {"entry": {"id": 49, "form": "朝/zhao", "translations": [{"title": "名詞", "forms": ["朝"]}], "tags": ["時間"]}},
     {"entry": {"id": 50, "form": "夕/xi", "translations": [{"title": "名詞", "forms": ["夕方"]}], "tags": ["時間"]}},
-]
+　 　　]
+}
