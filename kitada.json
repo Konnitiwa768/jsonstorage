@@ -9,6 +9,26 @@
     {"entry": {"id": 7, "form": "月/nyo3"}, "translations": [{"title": "名詞", "forms": ["月"]}], "tags": ["自然"]},
     {"entry": {"id": 8, "form": "星/seyng6"}, "translations": [{"title": "名詞", "forms": ["星"]}], "tags": ["自然"]},
     {"entry": {"id": 9, "form": "心/xing7"}, "translations": [{"title": "名詞", "forms": ["心"]}], "tags": ["感情"]},
-    {"entry": {"id": 10, "form": "風/fyung2"}, "translations": [{"title": "名詞", "forms": ["風"]}], "tags": ["自然"]}
+    {"entry": {"id": 10, "form": "風/fyung2"}, "translations": [{"title": "名詞", "forms": ["風"]}], "tags": ["自然"]},
+    {"entry": {"id": 11, "form": "花/huao6"}, "translations": [{"title": "名詞", "forms": ["花"]}], "tags": ["自然"]},
+    {"entry": {"id": 12, "form": "魚/yu2"}, "translations": [{"title": "名詞", "forms": ["魚"]}], "tags": ["動物"]},
+    {"entry": {"id": 13, "form": "鳥/nyao"}, "translations": [{"title": "名詞", "forms": ["鳥"]}], "tags": ["動物"]},
+    {"entry": {"id": 14, "form": "石/shyi3"}, "translations": [{"title": "名詞", "forms": ["石"]}], "tags": ["自然"]},
+    {"entry": {"id": 15, "form": "地/dhi8"}, "translations": [{"title": "名詞", "forms": ["地"]}], "tags": ["自然"]},
+    {"entry": {"id": 16, "form": "空/kung6"}, "translations": [{"title": "名詞", "forms": ["空"]}], "tags": ["自然"]},
+    {"entry": {"id": 17, "form": "人/ryn5"}, "translations": [{"title": "名詞", "forms": ["人"]}], "tags": ["人間"]},
+    {"entry": {"id": 18, "form": "愛/ai2"}, "translations": [{"title": "名詞", "forms": ["愛"]}], "tags": ["感情"]},
+    {"entry": {"id": 19, "form": "家/jya7"}, "translations": [{"title": "名詞", "forms": ["家"]}], "tags": ["生活"]},
+    {"entry": {"id": 20, "form": "子/zi2"}, "translations": [{"title": "名詞", "forms": ["子供"]}], "tags": ["人間"]},
+    {"entry": {"id": 21, "form": "手/shou4"}, "translations": [{"title": "名詞", "forms": ["手"]}], "tags": ["身体"]},
+    {"entry": {"id": 22, "form": "目/mou3"}, "translations": [{"title": "名詞", "forms": ["目"]}], "tags": ["身体"]},
+    {"entry": {"id": 23, "form": "耳/nyir1"}, "translations": [{"title": "名詞", "forms": ["耳"]}], "tags": ["身体"]},
+    {"entry": {"id": 24, "form": "口/ku1"}, "translations": [{"title": "名詞", "forms": ["口"]}], "tags": ["身体"]},
+    {"entry": {"id": 25, "form": "足/zou1"}, "translations": [{"title": "名詞", "forms": ["足"]}], "tags": ["身体"]},
+    {"entry": {"id": 26, "form": "光/gwang2"}, "translations": [{"title": "名詞", "forms": ["光"]}], "tags": ["自然"]},
+    {"entry": {"id": 27, "form": "車/cyar3"}, "translations": [{"title": "名詞", "forms": ["車"]}], "tags": ["交通"]},
+    {"entry": {"id": 28, "form": "音/yon7"}, "translations": [{"title": "名詞", "forms": ["音"]}], "tags": ["感覚"]},
+    {"entry": {"id": 29, "form": "書/sho6"}, "translations": [{"title": "名詞", "forms": ["書"]}], "tags": ["物"]},
+    {"entry": {"id": 30, "form": "語/gwu3"}, "translations": [{"title": "名詞", "forms": ["言葉"]}], "tags": ["概念"]}
   ]
 }
