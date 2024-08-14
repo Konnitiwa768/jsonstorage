@@ -1,0 +1,14 @@
+{
+  "words": [
+    {"entry": {"id": 1, "form": "水/xui2"}, "translations": [{"title": "名詞", "forms": ["水"]}], "tags": ["自然"]},
+    {"entry": {"id": 2, "form": "火/fyo3"}, "translations": [{"title": "名詞", "forms": ["火"]}], "tags": ["自然"]},
+    {"entry": {"id": 3, "form": "木/mu1"}, "translations": [{"title": "名詞", "forms": ["木"]}], "tags": ["自然"]},
+    {"entry": {"id": 4, "form": "山/shan4"}, "translations": [{"title": "名詞", "forms": ["山"]}], "tags": ["自然"]},
+    {"entry": {"id": 5, "form": "麺麭/myang3 po5"}, "translations": [{"title": "名詞", "forms": ["パン"]}], "tags": ["食べ物"]},
+    {"entry": {"id": 6, "form": "日/rih2"}, "translations": [{"title": "名詞", "forms": ["日"]}], "tags": ["自然"]},
+    {"entry": {"id": 7, "form": "月/nyo3"}, "translations": [{"title": "名詞", "forms": ["月"]}], "tags": ["自然"]},
+    {"entry": {"id": 8, "form": "星/seyng6"}, "translations": [{"title": "名詞", "forms": ["星"]}], "tags": ["自然"]},
+    {"entry": {"id": 9, "form": "心/xing7"}, "translations": [{"title": "名詞", "forms": ["心"]}], "tags": ["感情"]},
+    {"entry": {"id": 10, "form": "風/fyung2"}, "translations": [{"title": "名詞", "forms": ["風"]}], "tags": ["自然"]}
+  ]
+}
