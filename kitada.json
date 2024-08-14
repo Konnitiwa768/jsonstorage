@@ -29,6 +29,26 @@
     {"entry": {"id": 27, "form": "車/cyar3"}, "translations": [{"title": "名詞", "forms": ["車"]}], "tags": ["交通"]},
     {"entry": {"id": 28, "form": "音/yon7"}, "translations": [{"title": "名詞", "forms": ["音"]}], "tags": ["感覚"]},
     {"entry": {"id": 29, "form": "書/sho6"}, "translations": [{"title": "名詞", "forms": ["書"]}], "tags": ["物"]},
-    {"entry": {"id": 30, "form": "語/gwu3"}, "translations": [{"title": "名詞", "forms": ["言葉"]}], "tags": ["概念"]}
+    {"entry": {"id": 30, "form": "語/gwu3"}, "translations": [{"title": "名詞", "forms": ["言葉"]}], "tags": ["概念"]},
+    {"entry": {"id": 31, "form": "走/zu3"}, "translations": [{"title": "動詞", "forms": ["歩く"]}], "tags": ["動作"]},
+    {"entry": {"id": 32, "form": "吃/chi1"}, "translations": [{"title": "動詞", "forms": ["食べる"]}], "tags": ["動作"]},
+    {"entry": {"id": 33, "form": "喝/he8"}, "translations": [{"title": "動詞", "forms": ["飲む"]}], "tags": ["動作"]},
+    {"entry": {"id": 34, "form": "看/kan6"}, "translations": [{"title": "動詞", "forms": ["見る"]}], "tags": ["動作"]},
+    {"entry": {"id": 35, "form": "聽/ting2"}, "translations": [{"title": "動詞", "forms": ["聞く"]}], "tags": ["動作"]},
+    {"entry": {"id": 36, "form": "說/shuo5"}, "translations": [{"title": "動詞", "forms": ["話す"]}], "tags": ["動作"]},
+    {"entry": {"id": 37, "form": "寫/xie7"}, "translations": [{"title": "動詞", "forms": ["書く"]}], "tags": ["動作"]},
+    {"entry": {"id": 38, "form": "睡/shui4"}, "translations": [{"title": "動詞", "forms": ["寝る"]}], "tags": ["動作"]},
+    {"entry": {"id": 39, "form": "起/ci2"}, "translations": [{"title": "動詞", "forms": ["起きる"]}], "tags": ["動作"]},
+    {"entry": {"id": 40, "form": "笑/xyaa3"}, "translations": [{"title": "動詞", "forms": ["笑う"]}], "tags": ["感情"]},
+    {"entry": {"id": 41, "form": "哭/ku5"}, "translations": [{"title": "動詞", "forms": ["泣く"]}], "tags": ["感情"]},
+    {"entry": {"id": 42, "form": "愛/ai1"}, "translations": [{"title": "動詞", "forms": ["愛する"]}], "tags": ["感情"]},
+    {"entry": {"id": 43, "form": "想/xiang7"}, "translations": [{"title": "動詞", "forms": ["考える"]}], "tags": ["思考"]},
+    {"entry": {"id": 44, "form": "跳/ciao6"}, "translations": [{"title": "動詞", "forms": ["跳ぶ"]}], "tags": ["動作"]},
+    {"entry": {"id": 45, "form": "跑/po2"}, "translations": [{"title": "動詞", "forms": ["走る"]}], "tags": ["動作"]},
+    {"entry": {"id": 46, "form": "玩/wan8"}, "translations": [{"title": "動詞", "forms": ["遊ぶ"]}], "tags": ["動作"]},
+    {"entry": {"id": 47, "form": "學/se3"}, "translations": [{"title": "動詞", "forms": ["学ぶ"]}], "tags": ["学習"]},
+    {"entry": {"id": 48, "form": "教/jyaa1"}, "translations": [{"title": "動詞", "forms": ["教える"]}], "tags": ["学習"]},
+    {"entry": {"id": 49, "form": "買/mai6"}, "translations": [{"title": "動詞", "forms": ["買う"]}], "tags": ["動作"]},
+    {"entry": {"id": 50, "form": "賣/mei7"}, "translations": [{"title": "動詞", "forms": ["売る"]}], "tags": ["動作"]}
   ]
 }
