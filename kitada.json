@@ -49,6 +49,15 @@
     {"entry": {"id": 47, "form": "學/se3"}, "translations": [{"title": "動詞", "forms": ["学ぶ"]}], "tags": ["学習"]},
     {"entry": {"id": 48, "form": "教/jyaa1"}, "translations": [{"title": "動詞", "forms": ["教える"]}], "tags": ["学習"]},
     {"entry": {"id": 49, "form": "買/mai6"}, "translations": [{"title": "動詞", "forms": ["買う"]}], "tags": ["動作"]},
-    {"entry": {"id": 50, "form": "賣/mei7"}, "translations": [{"title": "動詞", "forms": ["売る"]}], "tags": ["動作"]}
+    {"entry": {"id": 50, "form": "賣/mei7"}, "translations": [{"title": "動詞", "forms": ["売る"]}], "tags": ["動作"]},
+    {"entry": {"id": 51, "form": "母/mu3"}, "translations": [{"title": "名詞", "forms": ["母"]}], "tags": ["家族"]},
+    {"entry": {"id": 52, "form": "毎晩/mei2wan4"}, "translations": [{"title": "副詞", "forms": ["毎晩"]}], "tags": ["時間"]},
+    {"entry": {"id": 53, "form": "長い/chang6"}, "translations": [{"title": "形容詞", "forms": ["長い"]}], "tags": ["形容"]},
+    {"entry": {"id": 54, "form": "袖/xiu4"}, "translations": [{"title": "名詞", "forms": ["袖"]}], "tags": ["衣服"]},
+    {"entry": {"id": 55, "form": "服/fo4"}, "translations": [{"title": "名詞", "forms": ["シャツ"]}], "tags": ["衣服"]},
+    {"entry": {"id": 56, "form": "着る/zhi5"}, "translations": [{"title": "動詞", "forms": ["着る"]}], "tags": ["動作"]},
+    {"entry": {"id": 57, "form": "部屋/hu5ya1"}, "translations": [{"title": "名詞", "forms": ["部屋"]}], "tags": ["場所"]},
+    {"entry": {"id": 58, "form": "掃除/sou2zhi6"}, "translations": [{"title": "動詞", "forms": ["掃除する"]}], "tags": ["動作"]},
+    {"entry": {"id": 59, "form": "中行/djon4xing3"}, "translations": [{"title": "動詞", "forms": ["している"]}], "tags": ["動作"]},
   ]
 }
