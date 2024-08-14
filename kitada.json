@@ -52,7 +52,7 @@
     {"entry": {"id": 50, "form": "賣/mei7"}, "translations": [{"title": "動詞", "forms": ["売る"]}], "tags": ["動作"]},
     {"entry": {"id": 51, "form": "母/mu3"}, "translations": [{"title": "名詞", "forms": ["母"]}], "tags": ["家族"]},
     {"entry": {"id": 52, "form": "毎晩/mei2wan4"}, "translations": [{"title": "副詞", "forms": ["毎晩"]}], "tags": ["時間"]},
-    {"entry": {"id": 53, "form": "長い/chang2"}, "translations": [{"title": "形容詞", "forms": ["長い"]}], "tags": ["形容"]},
+    {"entry": {"id": 53, "form": "長/chang2"}, "translations": [{"title": "形容詞", "forms": ["長い"]}], "tags": ["形容"]},
     {"entry": {"id": 54, "form": "袖/xiu4"}, "translations": [{"title": "名詞", "forms": ["袖"]}], "tags": ["衣服"]},
     {"entry": {"id": 55, "form": "服/fo2"}, "translations": [{"title": "名詞", "forms": ["シャツ"]}], "tags": ["衣服"]},
     {"entry": {"id": 56, "form": "着/zhi2"}, "translations": [{"title": "動詞", "forms": ["着る"]}], "tags": ["動作"]},
