@@ -58,6 +58,26 @@
     {"entry": {"id": 56, "form": "着/zhi2"}, "translations": [{"title": "動詞", "forms": ["着る"]}], "tags": ["動作"]},
     {"entry": {"id": 57, "form": "部屋/hu5ya1"}, "translations": [{"title": "名詞", "forms": ["部屋"]}], "tags": ["場所"]},
     {"entry": {"id": 58, "form": "掃除/sou2zhi1"}, "translations": [{"title": "動詞", "forms": ["掃除する"]}], "tags": ["動作"]},
-    {"entry": {"id": 59, "form": "中行/djon4xing3"}, "translations": [{"title": "動詞", "forms": ["している"]}], "tags": ["動作"]}
+    {"entry": {"id": 59, "form": "中行/djon4xing3"}, "translations": [{"title": "動詞", "forms": ["している"]}], "tags": ["動作"]},
+    {"entry": {"id": 51, "form": "𢘛/xiye2"}, "translations": [{"title": "名詞", "forms": ["喜び"]}], "tags": ["感情"]},
+    {"entry": {"id": 52, "form": "𢛯/biha1"}, "translations": [{"title": "名詞", "forms": ["悲しみ"]}], "tags": ["感情"]},
+    {"entry": {"id": 53, "form": "𢡃/feno2"}, "translations": [{"title": "名詞", "forms": ["怒り"]}], "tags": ["感情"]},
+    {"entry": {"id": 54, "form": "𢟢/kon3"}, "translations": [{"title": "名詞", "forms": ["恐怖"]}], "tags": ["感情"]},
+    {"entry": {"id": 55, "form": "𢦕/jyia4"}, "translations": [{"title": "名詞", "forms": ["驚き"]}], "tags": ["感情"]},
+    {"entry": {"id": 56, "form": "𢥯/jy5"}, "translations": [{"title": "名詞", "forms": ["落胆"]}], "tags": ["感情"]},
+    {"entry": {"id": 57, "form": "𢝖/manzo6"}, "translations": [{"title": "名詞", "forms": ["満足"]}], "tags": ["感情"]},
+    {"entry": {"id": 58, "form": "𢝞/xikyu4"}, "translations": [{"title": "名詞", "forms": ["恥ずかしさ"]}], "tags": ["感情"]},
+    {"entry": {"id": 59, "form": "𢛪/qida6"}, "translations": [{"title": "名詞", "forms": ["期待"]}], "tags": ["感情"]},
+    {"entry": {"id": 60, "form": "𢞦/hynian3"}, "translations": [{"title": "名詞", "forms": ["懐かしさ"]}], "tags": ["感情"]},
+    {"entry": {"id": 61, "form": "𢠯/yqu2"}, "translations": [{"title": "名詞", "forms": ["楽しさ"]}], "tags": ["感情"]},
+    {"entry": {"id": 62, "form": "𢡟/nai5"}, "translations": [{"title": "名詞", "forms": ["罪悪感"]}], "tags": ["感情"]},
+    {"entry": {"id": 63, "form": "𢞰/hyi3"}, "translations": [{"title": "名詞", "forms": ["疑い"]}], "tags": ["感情"]},
+    {"entry": {"id": 64, "form": "𢠥/jyaolu7"}, "translations": [{"title": "名詞", "forms": ["不安"]}], "tags": ["感情"]},
+    {"entry": {"id": 65, "form": "𢛝/yyue3"}, "translations": [{"title": "名詞", "forms": ["喜悦"]}], "tags": ["感情"]},
+    {"entry": {"id": 66, "form": "𢢱/zihu2"}, "translations": [{"title": "名詞", "forms": ["誇り"]}], "tags": ["感情"]},
+    {"entry": {"id": 67, "form": "𢢠/fano3"}, "translations": [{"title": "名詞", "forms": ["悩み"]}], "tags": ["感情"]},
+    {"entry": {"id": 68, "form": "𢠘/khun7"}, "translations": [{"title": "名詞", "forms": ["困惑"]}], "tags": ["感情"]},
+    {"entry": {"id": 69, "form": "𢡊/huai4"}, "translations": [{"title": "名詞", "forms": ["柔らかさ"]}], "tags": ["感情"]},
+    {"entry": {"id": 70, "form": "𢡒/yolu4"}, "translations": [{"title": "名詞", "forms": ["心配"]}], "tags": ["感情"]}
      ]
 }
