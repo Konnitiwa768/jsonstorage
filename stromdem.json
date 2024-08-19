@@ -46,7 +46,7 @@
     {"entry": {"id": 50, "form": "ty"}, "translations": [{"title": "人称", "forms": ["君"]}], "tags": ["人称"]},
     {"entry": {"id": 51, "form": "on"}, "translations": [{"title": "人称", "forms": ["彼"]}], "tags": ["人称"]},
     {"entry": {"id": 52, "form": "ona"}, "translations": [{"title": "人称", "forms": ["彼女"]}], "tags": ["人称"]},
-    {"entry": {"id": 53, "form": "ono"}, "translations": [{"title": "人称", "forms": ["それ"]}], "tags": ["人称"]}],
+    {"entry": {"id": 53, "form": "ono"}, "translations": [{"title": "人称", "forms": ["それ"]}], "tags": ["人称"]},
     {"entry": {"id": 54, "form": "my"}, "translations": [{"title": "人称", "forms": ["私たち"]}], "tags": ["人称"]},
     {"entry": {"id": 55, "form": "chlieb"}, "translations": [{"title": "名詞", "forms": ["パン"]}], "tags": ["食べ物"]},
     {"entry": {"id": 56, "form": "syr"}, "translations": [{"title": "名詞", "forms": ["チーズ"]}], "tags": ["食べ物"]},
