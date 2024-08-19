@@ -75,5 +75,5 @@
     {"entry": {"id": 79, "form": "lampa"}, "translations": [{"title": "名詞", "forms": ["ランプ"]}], "tags": ["名詞"]},
     {"entry": {"id": 80, "form": "koberec"}, "translations": [{"title": "名詞", "forms": ["カーペット"]}], "tags": ["名詞"]},
     {"entry": {"id": 81, "form": "dem"}, "translations": [{"title": "名詞", "forms": ["地"]}], "tags": ["名詞"]}
- ]
+     ]
 }
