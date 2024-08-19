@@ -13,7 +13,7 @@
     {"entry": {"id": 11, "form": "人/ren", "translations": [{"title": "名詞", "forms": ["人間"]}], "tags": ["存在"]},
     {"entry": {"id": 12, "form": "子/zi", "translations": [{"title": "名詞", "forms": ["子供"]}], "tags": ["存在"]},
     {"entry": {"id": 13, "form": "女/nv", "translations": [{"title": "名詞", "forms": ["女性"]}], "tags": ["存在"]},
-    {"entry": {"id": 14, "form": "男/nan", "translations": [{"title": "名詞", "forms": ["男性"]}], "tags": ["存在"},
+    {"entry": {"id": 14, "form": "男/nan", "translations": [{"title": "名詞", "forms": ["男性"]}], "tags": ["存在"]},
     {"entry": {"id": 15, "form": "家/jia", "translations": [{"title": "名詞", "forms": ["住む場所"]}], "tags": ["場所"]},
     {"entry": {"id": 16, "form": "村/cun", "translations": [{"title": "名詞", "forms": ["小さな集落"]}], "tags": ["場所"]},
     {"entry": {"id": 17, "form": "町/zhen", "translations": [{"title": "名詞", "forms": ["都市"]}], "tags": ["場所"]},
