@@ -1,4 +1,5 @@
-[
+{
+  "words": [
     {"entry": {"id": 1, "form": "bėgti"}, "translations": [{"title": "動詞", "forms": ["走る"]}], "tags": ["動詞"]},
     {"entry": {"id": 2, "form": "zpívat"}, "translations": [{"title": "動詞", "forms": ["歌う"]}], "tags": ["動詞"]},
     {"entry": {"id": 3, "form": "jeść"}, "translations": [{"title": "動詞", "forms": ["食べる"]}], "tags": ["動詞"]},
@@ -74,4 +75,5 @@
     {"entry": {"id": 79, "form": "lampa"}, "translations": [{"title": "名詞", "forms": ["ランプ"]}], "tags": ["名詞"]},
     {"entry": {"id": 80, "form": "koberec"}, "translations": [{"title": "名詞", "forms": ["カーペット"]}], "tags": ["名詞"]},
     {"entry": {"id": 81, "form": "dem"}, "translations": [{"title": "名詞", "forms": ["地"]}], "tags": ["名詞"]}
-]
+　]
+}
