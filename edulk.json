@@ -1,10 +1,10 @@
 {
   "words": [
-    {"entry": {"id": 1, "form": "braghik"}, "translations": [{"title": "名詞", "forms": ["山"]}], "tags": ["自然"]},
-    {"entry": {"id": 2, "form": "vorax"}, "translations": [{"title": "名詞", "forms": ["火"]}], "tags": ["自然"]},
+    {"entry": {"id": 1, "form": "bragrik"}, "translations": [{"title": "名詞", "forms": ["山"]}], "tags": ["自然"]},
+    {"entry": {"id": 2, "form": "voraH"}, "translations": [{"title": "名詞", "forms": ["火"]}], "tags": ["自然"]},
     {"entry": {"id": 3, "form": "quithar"}, "translations": [{"title": "名詞", "forms": ["水"]}], "tags": ["自然"]},
     {"entry": {"id": 4, "form": "tralor"}, "translations": [{"title": "名詞", "forms": ["風"]}], "tags": ["自然"]},
-    {"entry": {"id": 5, "form": "kridar"}, "translations": [{"title": "名詞", "forms": ["星"]}], "tags": ["自然"]},
+    {"entry": {"id": 5, "form": "krid'ar"}, "translations": [{"title": "名詞", "forms": ["星"]}], "tags": ["自然"]},
     {"entry": {"id": 6, "form": "xeorin"}, "translations": [{"title": "名詞", "forms": ["月"]}], "tags": ["自然"]},
     {"entry": {"id": 7, "form": "zyrith"}, "translations": [{"title": "名詞", "forms": ["空"]}], "tags": ["自然"]},
     {"entry": {"id": 8, "form": "dralm"}, "translations": [{"title": "名詞", "forms": ["土"]}], "tags": ["自然"]},
@@ -206,7 +206,7 @@
     {"entry": {"id": 200, "form": "haril"}, "translations": [{"title": "名詞", "forms": ["宇宙チョコレート"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 201, "form": "qalin"}, "translations": [{"title": "名詞", "forms": ["宇宙グミ"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 202, "form": "lonath"}, "translations": [{"title": "名詞", "forms": ["宇宙パン"]}], "tags": ["宇宙食"]},
-    {"entry": {"id": 203, "form": "halith"}, "translations": [{"title": "名詞", "forms": ["宇宙ラーメン"]}], "tags": ["宇宙食"]},
+    {"entry": {"id": 203, "form": "halitH"}, "translations": [{"title": "名詞", "forms": ["宇宙ラーメン"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 204, "form": "corlan"}, "translations": [{"title": "名詞", "forms": ["宇宙バーガー"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 205, "form": "nalic"}, "translations": [{"title": "名詞", "forms": ["宇宙サンドイッチ"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 206, "form": "laroth"}, "translations": [{"title": "名詞", "forms": ["宇宙ソース"]}], "tags": ["宇宙食"]},
@@ -215,7 +215,7 @@
     {"entry": {"id": 209, "form": "farnath"}, "translations": [{"title": "名詞", "forms": ["宇宙チーズ"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 210, "form": "charlan"}, "translations": [{"title": "名詞", "forms": ["宇宙スープ"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 211, "form": "sarin"}, "translations": [{"title": "名詞", "forms": ["宇宙ジュース"]}], "tags": ["宇宙食"]},
-    {"entry": {"id": 212, "form": "thalec"}, "translations": [{"title": "名詞", "forms": ["宇宙ゼリー"]}], "tags": ["宇宙食"]},
+    {"entry": {"id": 212, "form": "thaleC"}, "translations": [{"title": "名詞", "forms": ["宇宙ゼリー"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 213, "form": "loran"}, "translations": [{"title": "名詞", "forms": ["宇宙アイスクリーム"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 214, "form": "veloth"}, "translations": [{"title": "名詞", "forms": ["宇宙シリアル"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 215, "form": "horic"}, "translations": [{"title": "名詞", "forms": ["宇宙シチュー"]}], "tags": ["宇宙食"]},
@@ -223,6 +223,14 @@
     {"entry": {"id": 217, "form": "hlorath"}, "translations": [{"title": "名詞", "forms": ["宇宙ピザ"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 218, "form": "norlin"}, "translations": [{"title": "名詞", "forms": ["宇宙パスタ"]}], "tags": ["宇宙食"]},
     {"entry": {"id": 219, "form": "tarlic"}, "translations": [{"title": "名詞", "forms": ["宇宙肉"]}], "tags": ["宇宙食"]},
-    {"entry": {"id": 220, "form": "malin"}, "translations": [{"title": "名詞", "forms": ["宇宙ソーセージ"]}], "tags": ["宇宙食"]}
+    {"entry": {"id": 220, "form": "malin"}, "translations": [{"title": "名詞", "forms": ["宇宙ソーセージ"]}], "tags": ["宇宙食"]},
+    {"entry": {"id": 221, "form": "naktaQ"}, "translations": [{"title": "名詞", "forms": ["母"]}], "tags": ["家族"]},
+    {"entry": {"id": 222, "form": "lhaktaQ"}, "translations": [{"title": "名詞", "forms": ["父"]}], "tags": ["家族"]},
+    {"entry": {"id": 223, "form": "grahiQa"}, "translations": [{"title": "名詞", "forms": ["弟"]}], "tags": ["家族"]},
+    {"entry": {"id": 224, "form": "sindu"}, "translations": [{"title": "名詞", "forms": ["妹"]}], "tags": ["家族"]},
+    {"entry": {"id": 225, "form": "sang"}, "translations": [{"title": "名詞", "forms": ["兄"]}], "tags": ["家族"]},
+    {"entry": {"id": 226, "form": "grang"}, "translations": [{"title": "名詞", "forms": ["姉"]}], "tags": ["家族"]},
+    {"entry": {"id": 227, "form": "sug"}, "translations": [{"title": "名詞", "forms": ["祖母"]}], "tags": ["家族"]},
+    {"entry": {"id": 228, "form": "Qalhatu"}, "translations": [{"title": "名詞", "forms": ["祖父"]}], "tags": ["家族"]}
   ]
 }
