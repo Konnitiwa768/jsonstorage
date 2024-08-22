@@ -325,5 +325,5 @@
     {"entry": {"id": 319, "form": "Luskan"}, "translations": [{"title": "名詞", "forms": ["ルクセンブルク"]}], "tags": ["国家"]},
     {"entry": {"id": 320, "form": "Benmar"}, "translations": [{"title": "名詞", "forms": ["ベナン"]}], "tags": ["国家"]},
     {"entry": {"id": 321, "form": "Ghanor"}, "translations": [{"title": "名詞", "forms": ["ガーナ"]}], "tags": ["国家"]}
-  ]
+]
 }
