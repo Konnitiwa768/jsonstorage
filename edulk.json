@@ -317,7 +317,7 @@
     {"entry": {"id": 311, "form": "Kazlax"}, "translations": [{"title": "名詞", "forms": ["カザフスタン"]}], "tags": ["国家"]},
     {"entry": {"id": 312, "form": "Bolrac"}, "translations": [{"title": "名詞", "forms": ["ボリビア"]}], "tags": ["国家"]},
     {"entry": {"id": 313, "form": "Anglar"}, "translations": [{"title": "名詞", "forms": ["アンゴラ"]}], "tags": ["国家"]},
-    {"entry": {"id": 314, "form": "Portak"}, "translations": [{"title": "名詞", "forms": ["ポルトガル"]}], "tags": ["国家"]}],
+    {"entry": {"id": 314, "form": "Portak"}, "translations": [{"title": "名詞", "forms": ["ポルトガル"]}], "tags": ["国家"]},
     {"entry": {"id": 315, "form": "Camrox"}, "translations": [{"title": "名詞", "forms": ["カメルーン"]}], "tags": ["国家"]},
     {"entry": {"id": 316, "form": "Neprax"}, "translations": [{"title": "名詞", "forms": ["ネパール"]}], "tags": ["国家"]},
     {"entry": {"id": 317, "form": "Mongra"}, "translations": [{"title": "名詞", "forms": ["モンゴル"]}], "tags": ["国家"]},
@@ -325,5 +325,5 @@
     {"entry": {"id": 319, "form": "Luskan"}, "translations": [{"title": "名詞", "forms": ["ルクセンブルク"]}], "tags": ["国家"]},
     {"entry": {"id": 320, "form": "Benmar"}, "translations": [{"title": "名詞", "forms": ["ベナン"]}], "tags": ["国家"]},
     {"entry": {"id": 321, "form": "Ghanor"}, "translations": [{"title": "名詞", "forms": ["ガーナ"]}], "tags": ["国家"]}
-]
+  ]
 }
