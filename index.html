@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>エドゥルク語辞書</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .search-container {
+            margin-bottom: 20px;
+        }
+        .search-input {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .entry {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .entry:last-child {
+            border-bottom: none;
+        }
+        .entry-header {
+            font-weight: bold;
+        }
+        .entry-body {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>エドゥルク語辞書</h1>
+        <div class="search-container">
+            <input type="text" class="search-input" id="searchInput" placeholder="単語を検索">
+        </div>
+        <div id="dictionaryEntries"></div>
+    </div>
+
+    <script>
+        async function fetchDictionary() {
+            try {
+                const response = await fetch('edulk.json');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error('There has been a problem with your fetch operation:', error);
+                return [];
+            }
+        }
+
+        function renderEntries(entries) {
+            const container = document.getElementById('dictionaryEntries');
+            container.innerHTML = '';
+
+            entries.forEach(entry => {
+                const entryDiv = document.createElement('div');
+                entryDiv.classList.add('entry');
+
+                const header = document.createElement('div');
+                header.classList.add('entry-header');
+                header.textContent = entry.entry.form;
+
+                const body = document.createElement('div');
+                body.classList.add('entry-body');
+
+                entry.translations.forEach(translation => {
+                    translation.forms.forEach(form => {
+                        const p = document.createElement('p');
+                        p.textContent = `${translation.title}: ${form}`;
+                        body.appendChild(p);
+                    });
+                });
+
+                entryDiv.appendChild(header);
+                entryDiv.appendChild(body);
+                container.appendChild(entryDiv);
+            });
+        }
+
+        function filterEntries(entries, query) {
+            if (!query) return entries;
+            return entries.filter(entry => 
+                entry.entry.form.toLowerCase().includes(query.toLowerCase()) ||
+                entry.translations.some(translation => 
+                    translation.forms.some(form => form.toLowerCase().includes(query.toLowerCase()))
+                )
+            );
+        }
+
+        document.getElementById('searchInput').addEventListener('input', async (event) => {
+            const query = event.target.value;
+            const dictionary = await fetchDictionary();
+            const filteredEntries = filterEntries(dictionary, query);
+            renderEntries(filteredEntries);
+        });
+
+        // Initial render
+        (async () => {
+            const dictionary = await fetchDictionary();
+            renderEntries(dictionary);
+        })();
+    </script>
+</body>
+</html>
