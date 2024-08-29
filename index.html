@@ -1,128 +1,216 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>エドゥルク語辞書</title>
+    <title>edulk Dictionary</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .search-container {
-            margin-bottom: 20px;
-        }
-        .search-input {
-            width: 100%;
-            padding: 10px;
-            font-size: 16px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-        .entry {
-            padding: 10px;
-            border-bottom: 1px solid #ddd;
-        }
-        .entry:last-child {
-            border-bottom: none;
-        }
-        .entry-header {
-            font-weight: bold;
-        }
-        .entry-body {
-            margin-top: 5px;
-        }
+      @font-face {
+        font-family: 'Madueyer';
+        src: url('Madueyer.ttf') format('truetype');
+      }
+      #word-list {
+        font-family: 'Madueyer', sans-serif;
+      }
+      body {
+        font-family: sans-serif;
+      }
+      #container {
+        width: 80%;
+        margin: 0 auto;
+      }
+      #word-list {
+        margin-bottom: 20px;
+      }
+      .word-item {
+        padding: 5px;
+        border: 1px solid #ddd;
+        margin-bottom: 5px;
+        cursor: pointer;
+      }
+      #pagination {
+        margin-top: 10px;
+      }
+      .page-link {
+        display: inline-block;
+        padding: 5px 10px;
+        margin: 2px;
+        border: 1px solid #ccc;
+        background-color: #a4a4a4; /* デフォルトのボタンカラー */
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      .page-link:hover {
+        background-color: #888; /* ホバー時の色 */
+      }
+      .page-link.current-page {
+        background-color: red; /* 現在のページをハイライト */
+      }
+      #word-details {
+        margin-top: 20px;
+      }
+      button {
+        margin-bottom: 10px;
+      }
     </style>
-</head>
-<body>
-    <div class="container">
-        <h1>エドゥルク語辞書</h1>
-        <div class="search-container">
-            <input type="text" class="search-input" id="searchInput" placeholder="単語を検索">
-        </div>
-        <div id="dictionaryEntries"></div>
-    </div>
-
     <script>
-        async function fetchDictionary() {
-            try {
-                const response = await fetch('edulk.json');
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                const data = await response.json();
-                return data;
-            } catch (error) {
-                console.error('There has been a problem with your fetch operation:', error);
-                return [];
+        let dictionaryData;
+        let currentPage = 1;
+        const itemsPerPage = 20;
+        const defaultFont = 'Arial, sans-serif';
+        const madueyerFont = 'Madueyer, sans-serif';
+
+        window.onload = function() {
+            loadDictionaryData();
+            document.getElementById('toggle-font').onclick = toggleFont;
+        };
+
+        function loadDictionaryData() {
+            fetch('edulk.json')
+                .then(response => response.json())
+                .then(data => {
+                    dictionaryData = data.words;
+                    renderWordList();
+                    renderPagination();
+                });
+        }
+
+        function renderWordList() {
+            const wordListElement = document.getElementById('word-list');
+            wordListElement.innerHTML = '';
+
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = Math.min(startIndex + itemsPerPage, dictionaryData.length);
+
+            for (let i = startIndex; i < endIndex; i++) {
+                const word = dictionaryData[i];
+                const wordItem = document.createElement('div');
+                wordItem.className = 'word-item';
+                wordItem.textContent = word.entry.form;
+                wordItem.onclick = () => showWordDetails(word);
+                wordListElement.appendChild(wordItem);
             }
         }
 
-        function renderEntries(entries) {
-            const container = document.getElementById('dictionaryEntries');
-            container.innerHTML = '';
+        function renderPagination() {
+            const paginationElement = document.getElementById('pagination');
+            paginationElement.innerHTML = '';
 
-            entries.forEach(entry => {
-                const entryDiv = document.createElement('div');
-                entryDiv.classList.add('entry');
+            const totalPages = Math.ceil(dictionaryData.length / itemsPerPage);
 
-                const header = document.createElement('div');
-                header.classList.add('entry-header');
-                header.textContent = entry.entry.form;
-
-                const body = document.createElement('div');
-                body.classList.add('entry-body');
-
-                entry.translations.forEach(translation => {
-                    translation.forms.forEach(form => {
-                        const p = document.createElement('p');
-                        p.textContent = `${translation.title}: ${form}`;
-                        body.appendChild(p);
-                    });
-                });
-
-                entryDiv.appendChild(header);
-                entryDiv.appendChild(body);
-                container.appendChild(entryDiv);
-            });
+            for (let i = 1; i <= totalPages; i++) {
+                const pageLink = document.createElement('span');
+                pageLink.className = 'page-link';
+                pageLink.textContent = i;
+                if (i === currentPage) {
+                    pageLink.classList.add('current-page');
+                }
+                pageLink.onclick = () => {
+                    currentPage = i;
+                    renderWordList();
+                    renderPagination();
+                };
+                paginationElement.appendChild(pageLink);
+            }
         }
 
-        function filterEntries(entries, query) {
-            if (!query) return entries;
-            return entries.filter(entry => 
-                entry.entry.form.toLowerCase().includes(query.toLowerCase()) ||
-                entry.translations.some(translation => 
-                    translation.forms.some(form => form.toLowerCase().includes(query.toLowerCase()))
-                )
-            );
+        function showWordDetails(word) {
+            const wordDetailsElement = document.getElementById('word-details');
+            const pronunciation = convertPronunciation(word.entry.form); // 発音変換を適用
+            wordDetailsElement.innerHTML = `
+                <h2>${word.entry.form}</h2>
+                <p>ID: ${word.entry.id}</p>
+                <p>発音: ${pronunciation}</p>
+                <h3>Translations:</h3>
+                <ul>
+                    ${word.translations.map(t => `<li>${t.title}: ${t.forms.join(', ')}</li>`).join('')}
+                </ul>
+                <h3>Contents:</h3>
+                <ul>
+                    ${word.contents.map(c => `<li>${c.title}: ${c.text}</li>`).join('')}
+                </ul>
+                <h3>Variations:</h3>
+                <ul>
+                    ${word.variations.map(v => `<li>${v.title}: ${v.form}</li>`).join('')}
+                </ul>
+                <h3>Relations:</h3>
+                <ul>
+                    ${word.relations.map(r => `<li>${r.title}: ${r.entry.form}</li>`).join('')}
+                </ul>
+            `;
         }
 
-        document.getElementById('searchInput').addEventListener('input', async (event) => {
-            const query = event.target.value;
-            const dictionary = await fetchDictionary();
-            const filteredEntries = filterEntries(dictionary, query);
-            renderEntries(filteredEntries);
-        });
+        function search() {
+            const searchInput = document.getElementById('search-input').value.toLowerCase();
+            const filteredWords = dictionaryData.filter(word => word.entry.form.toLowerCase().includes(searchInput));
+            renderFilteredWords(filteredWords);
+        }
 
-        // Initial render
-        (async () => {
-            const dictionary = await fetchDictionary();
-            renderEntries(dictionary);
-        })();
+        function renderFilteredWords(filteredWords) {
+            const wordListElement = document.getElementById('word-list');
+            wordListElement.innerHTML = '';
+
+            for (let word of filteredWords) {
+                const wordItem = document.createElement('div');
+                wordItem.className = 'word-item';
+                wordItem.textContent = word.entry.form;
+                wordItem.onclick = () => showWordDetails(word);
+                wordListElement.appendChild(wordItem);
+            }
+        }
+
+        function toggleFont() {
+            const currentFont = document.body.style.fontFamily;
+            document.body.style.fontFamily = currentFont === madueyerFont ? defaultFont : madueyerFont;
+        }
+
+        function convertPronunciation(word) {
+            // 発音変換のルールを定義
+            const rules = [
+                { pattern: /q/g, replacement: 'q' },
+                { pattern: /k/g, replacement: 'k' },
+                { pattern: /g/g, replacement: 'ɣ' },
+                { pattern: /s/g, replacement: 's' },
+                { pattern: /z/g, replacement: 'z' },
+                { pattern: /t/g, replacement: 't' },
+                { pattern: /d/g, replacement: 'd' },
+                { pattern: /n/g, replacement: 'n' },
+                { pattern: /ny/g, replacement: 'ɳ' },
+                { pattern: /ng/g, replacement: 'ŋ' },
+                { pattern: /h/g, replacement: 'h' },
+                { pattern: /m/g, replacement: 'm' },
+                { pattern: /m/g, replacement: 'ɱ' },
+                { pattern: /ei/g, replacement: 'ɜ' },
+                { pattern: /e/g, replacement: 'ɛ' },
+                { pattern: /ui/g, replacement: 'ɨ' },
+                { pattern: /ea/g, replacement: 'æ' },
+                { pattern: /hh/g, replacement: 'ʡ͡ħ' },
+                { pattern: /'/g, replacement: 'ʔ' },
+                { pattern: /l/g, replacement: 'l' },
+                { pattern: /r/g, replacement: 'ɹ' },
+                { pattern: /ts/g, replacement: 't͡s' },
+                { pattern: /ty/g, replacement: 't͡ʃ' },
+                { pattern: /ch/g, replacement: 't͡ɕ' },
+                { pattern: /v/g, replacement: 'v' },
+                { pattern: /w/g, replacement: 'β' }
+            ];
+
+            // 発音変換
+            let converted = word;
+            for (const rule of rules) {
+                converted = converted.replace(rule.pattern, rule.replacement);
+            }
+            return converted;
+        }
     </script>
+</head>
+<body>
+    <div id="container">
+        <input type="text" id="search-input" placeholder="検索..." oninput="search()">
+        <div id="word-list"></div>
+        <div id="pagination"></div>
+        <div id="word-details"></div>
+    </div>
 </body>
 </html>
