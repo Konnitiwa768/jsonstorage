@@ -56,6 +56,14 @@
     {"entry": {"id": 54, "form": "acorxi"}, "translations": [{"title": "食べ物", "forms": ["貝"]}], "tags": ["名詞"]},
     {"entry": {"id": 55, "form": "moquen"}, "translations": [{"title": "食べ物", "forms": ["鱈"]}], "tags": ["名詞"]},
     {"entry": {"id": 56, "form": "h'arka"}, "translations": [{"title": "食べ物", "forms": ["螽"]}], "tags": ["名詞"]},
-    {"entry": {"id": 57, "form": "heben"}, "translations": [{"title": "食べ物", "forms": ["グミ"]}], "tags": ["名詞"]}
+    {"entry": {"id": 57, "form": "heben"}, "translations": [{"title": "食べ物", "forms": ["グミ"]}], "tags": ["名詞"]},
+    {"entry": {"id": 58, "form": "utula"}, "translations": [{"title": "食べ物", "forms": ["栗"]}], "tags": ["名詞"]},
+    {"entry": {"id": 59, "form": "farrad"}, "translations": [{"title": "食べ物", "forms": ["鮎"]}], "tags": ["名詞"]},
+    {"entry": {"id": 60, "form": "melve"}, "translations": [{"title": "食べ物", "forms": ["鮭"]}], "tags": ["名詞"]},
+    {"entry": {"id": 61, "form": "teft"}, "translations": [{"title": "食べ物", "forms": ["魚"]}], "tags": ["名詞"]},
+    {"entry": {"id": 62, "form": "felyu"}, "translations": [{"title": "食べ物", "forms": ["赤貝"]}], "tags": ["名詞"]},
+    {"entry": {"id": 63, "form": "inar"}, "translations": [{"title": "食べ物", "forms": ["ホタテ"]}], "tags": ["名詞"]},
+    {"entry": {"id": 64, "form": "s'erin"}, "translations": [{"title": "食べ物", "forms": ["ポテトチップス"]}], "tags": ["名詞"]},
+    {"entry": {"id": 65, "form": "idad'e"}, "translations": [{"title": "食べ物", "forms": ["餡掛け"]}], "tags": ["名詞"]}
   ]
 }
