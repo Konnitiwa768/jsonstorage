@@ -52,6 +52,10 @@
     {"entry": {"id": 50, "form": "drangoron"}, "translations": [{"title": "食べ物", "forms": ["辛いもの"]}], "tags": ["食べ物"]},
     {"entry": {"id": 51, "form": "sanriva"}, "translations": [{"title": "食べ物", "forms": ["しょっぱいもの"]}], "tags": ["食べ物"]},
     {"entry": {"id": 52, "form": "fugndi"}, "translations": [{"title": "食べ物", "forms": ["苦いもの"]}], "tags": ["食べ物"]},
-    {"entry": {"id": 53, "form": "kuna"}, "translations": [{"title": "食べ物", "forms": ["うまみ"]}], "tags": ["食べ物"]}
+    {"entry": {"id": 53, "form": "kuna"}, "translations": [{"title": "食べ物", "forms": ["うまみ"]}], "tags": ["食べ物"]},
+    {"entry": {"id": 54, "form": "acorxi"}, "translations": [{"title": "食べ物", "forms": ["貝"]}], "tags": ["名詞"]},
+    {"entry": {"id": 55, "form": "moquen"}, "translations": [{"title": "食べ物", "forms": ["鱈"]}], "tags": ["名詞"]},
+    {"entry": {"id": 56, "form": "h'arka"}, "translations": [{"title": "食べ物", "forms": ["螽"]}], "tags": ["名詞"]},
+    {"entry": {"id": 57, "form": "heben"}, "translations": [{"title": "食べ物", "forms": ["グミ"]}], "tags": ["名詞"]}
   ]
 }
