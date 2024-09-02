@@ -64,6 +64,9 @@
     {"entry": {"id": 62, "form": "felyu"}, "translations": [{"title": "食べ物", "forms": ["赤貝"]}], "tags": ["名詞"]},
     {"entry": {"id": 63, "form": "inar"}, "translations": [{"title": "食べ物", "forms": ["ホタテ"]}], "tags": ["名詞"]},
     {"entry": {"id": 64, "form": "s'erin"}, "translations": [{"title": "食べ物", "forms": ["ポテトチップス"]}], "tags": ["名詞"]},
-    {"entry": {"id": 65, "form": "idad'e"}, "translations": [{"title": "食べ物", "forms": ["餡掛け"]}], "tags": ["名詞"]}
+    {"entry": {"id": 65, "form": "idad'e"}, "translations": [{"title": "食べ物", "forms": ["餡掛け"]}], "tags": ["名詞"]},
+    {"entry": {"id": 66, "form": "monoth"}, "translations": [{"title": "概念", "forms": ["秩序"]}], "tags": ["名詞"]},
+    {"entry": {"id": 67, "form": "aventur"}, "translations": [{"title": "概念", "forms": ["平和"]}], "tags": ["名詞"]},
+    {"entry": {"id": 68, "form": "serrad"}, "translations": [{"title": "概念", "forms": ["混乱"]}], "tags": ["名詞"]}
   ]
 }
