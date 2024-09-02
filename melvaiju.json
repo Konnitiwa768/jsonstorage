@@ -67,6 +67,9 @@
     {"entry": {"id": 65, "form": "idad'e"}, "translations": [{"title": "食べ物", "forms": ["餡掛け"]}], "tags": ["名詞"]},
     {"entry": {"id": 66, "form": "monoth"}, "translations": [{"title": "概念", "forms": ["秩序"]}], "tags": ["名詞"]},
     {"entry": {"id": 67, "form": "aventur"}, "translations": [{"title": "概念", "forms": ["平和"]}], "tags": ["名詞"]},
-    {"entry": {"id": 68, "form": "serrad"}, "translations": [{"title": "概念", "forms": ["混乱"]}], "tags": ["名詞"]}
+    {"entry": {"id": 68, "form": "serrad"}, "translations": [{"title": "概念", "forms": ["混乱"]}], "tags": ["名詞"]},
+    {"entry": {"id": 69, "form": "turgra"}, "translations": [{"title": "概念", "forms": ["安全"]}], "tags": ["名詞"]},
+    {"entry": {"id": 70, "form": "diamost"}, "translations": [{"title": "概念", "forms": ["危険"]}], "tags": ["名詞"]},
+    {"entry": {"id": 71, "form": "haphelactea"}, "translations": [{"title": "概念", "forms": ["奇抜"]}], "tags": ["名詞"]}
   ]
 }
