@@ -49,6 +49,26 @@
     {"entry": {"id": 47, "form": "koʊ"}, "translations": [{"title": "飲み物", "forms": ["コーヒー"]}], "tags": ["飲み物"]},
     {"entry": {"id": 48, "form": "wɑt"}, "translations": [{"title": "飲み物", "forms": ["水"]}], "tags": ["飲み物"]},
     {"entry": {"id": 49, "form": "nɪt"}, "translations": [{"title": "動詞", "forms": ["学ぶ"]}], "tags": ["動詞"]},
-    {"entry": {"id": 50, "form": "fɑɹ"}, "translations": [{"title": "動詞", "forms": ["遊ぶ"]}], "tags": ["動詞"]}
+    {"entry": {"id": 50, "form": "fɑɹ"}, "translations": [{"title": "動詞", "forms": ["遊ぶ"]}], "tags": ["動詞"]},
+    {"entry": {"id": 51, "form": "zʌn.dɑː"}, "translations": [{"title": "名詞", "forms": ["ずんだ"]}], "tags": ["名詞"]},
+    {"entry": {"id": 52, "form": "smaʊ"}, "translations": [{"title": "名詞", "forms": ["スマホ"]}], "tags": ["名詞"]},
+    {"entry": {"id": 53, "form": "ʃɪp.tə"}, "translations": [{"title": "名詞", "forms": ["チップ"]}], "tags": ["名詞"]},
+    {"entry": {"id": 54, "form": "zʌn.dɑːl"}, "translations": [{"title": "動詞", "forms": ["ずんだる"]}], "tags": ["動詞"]},
+    {"entry": {"id": 55, "form": "fɪltə"}, "translations": [{"title": "名詞", "forms": ["フィルター"]}], "tags": ["名詞"]},
+    {"entry": {"id": 56, "form": "ʃʊɹ.tʃa"}, "translations": [{"title": "名詞", "forms": ["充電"]}], "tags": ["名詞"]},
+    {"entry": {"id": 57, "form": "rɪːtæn"}, "translations": [{"title": "動詞", "forms": ["回転"]}], "tags": ["動詞"]},
+    {"entry": {"id": 58, "form": "bɹæ.kɪt"}, "translations": [{"title": "名詞", "forms": ["ブラケット"]}], "tags": ["名詞"]},
+    {"entry": {"id": 59, "form": "swɪp"}, "translations": [{"title": "動詞", "forms": ["スワイプ"]}], "tags": ["動詞"]},
+    {"entry": {"id": 60, "form": "vɪbɹeɪt"}, "translations": [{"title": "動詞", "forms": ["振動する"]}], "tags": ["動詞"]},
+    {"entry": {"id": 61, "form": "læɡ"}, "translations": [{"title": "名詞", "forms": ["ラグ"]}], "tags": ["名詞"]},
+    {"entry": {"id": 62, "form": "klæmp"}, "translations": [{"title": "動詞", "forms": ["フリーズする"]}], "tags": ["動詞"]},
+    {"entry": {"id": 63, "form": "hoʊm.skɹiːn"}, "translations": [{"title": "名詞", "forms": ["ホームスクリーン"]}], "tags": ["名詞"]},
+    {"entry": {"id": 64, "form": "fɔːn.stænd"}, "translations": [{"title": "名詞", "forms": ["フォーンスタンド"]}], "tags": ["名詞"]},
+    {"entry": {"id": 65, "form": "bluː.tuːθ"}, "translations": [{"title": "名詞", "forms": ["ブルートゥース"]}], "tags": ["名詞"]},
+    {"entry": {"id": 66, "form": "smaːt.fəʊn"}, "translations": [{"title": "名詞", "forms": ["スマートフォン"]}], "tags": ["名詞"]},
+    {"entry": {"id": 67, "form": "dɪs.kʌn"}, "translations": [{"title": "動詞", "forms": ["接続切断"]}], "tags": ["動詞"]},
+    {"entry": {"id": 68, "form": "flæt.mɪlk"}, "translations": [{"title": "名詞", "forms": ["フラットミルク"]}], "tags": ["名詞"]},
+    {"entry": {"id": 69, "form": "loʊ.bæ.təɹ"}, "translations": [{"title": "名詞", "forms": ["バッテリー低下"]}], "tags": ["名詞"]},
+    {"entry": {"id": 70, "form": "dɑʊn.səʊ"}, "translations": [{"title": "動詞", "forms": ["ダウンする"]}], "tags": ["動詞"]}
   ]
 }
