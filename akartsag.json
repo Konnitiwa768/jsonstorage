@@ -99,6 +99,26 @@
     {"entry": {"id": 97, "form": "bʊm.kɹa"}, "translations": [{"title": "概念", "forms": ["統制"]}], "tags": ["概念"]},
     {"entry": {"id": 98, "form": "pɪr.lʊ"}, "translations": [{"title": "感情", "forms": ["興奮"]}], "tags": ["感情"]},
     {"entry": {"id": 99, "form": "vɪl.rɔ"}, "translations": [{"title": "感情", "forms": ["喜び"]}], "tags": ["感情"]},
-    {"entry": {"id": 100, "form": "mɔɹ.kɪn"}, "translations": [{"title": "概念", "forms": ["秩序"]}], "tags": ["概念"]}
+    {"entry": {"id": 100, "form": "mɔɹ.kɪn"}, "translations": [{"title": "概念", "forms": ["秩序"]}], "tags": ["概念"]}，
+    {"entry": {"id": 101, "form": "vɑː.mɪl"}, "translations": [{"title": "家族関係", "forms": ["祖母"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 102, "form": "mɑɪ.jɑːn"}, "translations": [{"title": "家族関係", "forms": ["義兄"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 103, "form": "sɪl.vɔɹ"}, "translations": [{"title": "家族関係", "forms": ["妹"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 104, "form": "pɛɹ.juɹ"}, "translations": [{"title": "家族関係", "forms": ["兄"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 105, "form": "nʌm.bɑɪ"}, "translations": [{"title": "家族関係", "forms": ["姉"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 106, "form": "tʃɑɹ.lɛs"}, "translations": [{"title": "家族関係", "forms": ["叔父"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 107, "form": "ɹɑːd.mɪk"}, "translations": [{"title": "家族関係", "forms": ["姪"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 108, "form": "fɪn.tʃɪɹ"}, "translations": [{"title": "家族関係", "forms": ["甥"]}], "tags": ["家族関係"]},
+    {"entry": {"id": 109, "form": "kɛt.vɜɹ"}, "translations": [{"title": "職業", "forms": ["採掘者"]}], "tags": ["職業"]},
+    {"entry": {"id": 110, "form": "vɪs.ɹɑɪ"}, "translations": [{"title": "職業", "forms": ["風見師"]}], "tags": ["職業"]},
+    {"entry": {"id": 111, "form": "tʃuː.lɑʊn"}, "translations": [{"title": "職業", "forms": ["星読み"]}], "tags": ["職業"]},
+    {"entry": {"id": 112, "form": "mɑɪ.vɑɹ"}, "translations": [{"title": "職業", "forms": ["守護者"]}], "tags": ["職業"]},
+    {"entry": {"id": 113, "form": "gɜɹ.dɪn"}, "translations": [{"title": "職業", "forms": ["闘技者"]}], "tags": ["職業"]},
+    {"entry": {"id": 114, "form": "sɑːr.kɛɹ"}, "translations": [{"title": "職業", "forms": ["調和師"]}], "tags": ["職業"]},
+    {"entry": {"id": 115, "form": "zɪn.kɜɹ"}, "translations": [{"title": "職業", "forms": ["霧歩き"]}], "tags": ["職業"]},
+    {"entry": {"id": 116, "form": "vɛɹ.tɜm"}, "translations": [{"title": "職業", "forms": ["鋳造師"]}], "tags": ["職業"]},
+    {"entry": {"id": 117, "form": "pɑɪl.tʃɜɹ"}, "translations": [{"title": "職業", "forms": ["時の番人"]}], "tags": ["職業"]},
+    {"entry": {"id": 118, "form": "dʒɪn.sɑɹ"}, "translations": [{"title": "職業", "forms": ["魂送り"]}], "tags": ["職業"]},
+    {"entry": {"id": 119, "form": "ʃɑːl.vɜɹ"}, "translations": [{"title": "職業", "forms": ["声運び"]}], "tags": ["職業"]},
+    {"entry": {"id": 120, "form": "vɪs.lɑɪ"}, "translations": [{"title": "職業", "forms": ["夢織り"]}], "tags": ["職業"]}
   ]
 }
