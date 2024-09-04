@@ -139,6 +139,26 @@
     {"entry": {"id": 137, "form": "fɪn.tʃɪ"}, "translations": [{"title": "日常", "forms": ["枕"]}], "tags": ["日常"]},
     {"entry": {"id": 138, "form": "tʃɑː.vɪ"}, "translations": [{"title": "日常", "forms": ["カーペット"]}], "tags": ["日常"]},
     {"entry": {"id": 139, "form": "sɑː.tɪ"}, "translations": [{"title": "日常", "forms": ["ドア"]}], "tags": ["日常"]},
-    {"entry": {"id": 140, "form": "pɑː.tʃɪ"}, "translations": [{"title": "日常", "forms": ["ノート"]}], "tags": ["日常"]}
+    {"entry": {"id": 140, "form": "pɑː.tʃɪ"}, "translations": [{"title": "日常", "forms": ["ノート"]}], "tags": ["日常"]},
+    {"entry": {"id": 141, "form": "mɪn.tʃaɪ"}, "translations": [{"title": "施設", "forms": ["駅"]}], "tags": ["施設"]},
+    {"entry": {"id": 142, "form": "dʒæm.bɪk"}, "translations": [{"title": "対義語", "forms": ["駅（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 143, "form": "pɜːt.tʃoʊ"}, "translations": [{"title": "施設", "forms": ["ショッピングモール"]}], "tags": ["施設"]},
+    {"entry": {"id": 144, "form": "dʒɔk.kʌɹ"}, "translations": [{"title": "対義語", "forms": ["ショッピングモール（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 145, "form": "sɪm.bɛk"}, "translations": [{"title": "施設", "forms": ["図書館"]}], "tags": ["施設"]},
+    {"entry": {"id": 146, "form": "dʒɪn.tʃɪp"}, "translations": [{"title": "対義語", "forms": ["図書館（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 147, "form": "kæŋ.tɑr"}, "translations": [{"title": "施設", "forms": ["公園"]}], "tags": ["施設"]},
+    {"entry": {"id": 148, "form": "zɪɹ.jæk"}, "translations": [{"title": "対義語", "forms": ["公園（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 149, "form": "nɑːp.tʃaɪ"}, "translations": [{"title": "施設", "forms": ["病院"]}], "tags": ["施設"]},
+    {"entry": {"id": 150, "form": "zɪk.ʃɑr"}, "translations": [{"title": "対義語", "forms": ["病院（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 151, "form": "lɪp.kæɹ"}, "translations": [{"title": "施設", "forms": ["レストラン"]}], "tags": ["施設"]},
+    {"entry": {"id": 152, "form": "vɪm.pɒr"}, "translations": [{"title": "対義語", "forms": ["レストラン（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 153, "form": "fɪm.kæʊ"}, "translations": [{"title": "施設", "forms": ["スーパー"]}], "tags": ["施設"]},
+    {"entry": {"id": 154, "form": "tʃɪb.dʒæɹ"}, "translations": [{"title": "対義語", "forms": ["スーパー（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 155, "form": "sɪŋ.ɹɑɪ"}, "translations": [{"title": "施設", "forms": ["バス停"]}], "tags": ["施設"]},
+    {"entry": {"id": 156, "form": "dʒɪb.læɹ"}, "translations": [{"title": "対義語", "forms": ["バス停（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 157, "form": "pɑːv.kɪt"}, "translations": [{"title": "施設", "forms": ["映画館"]}], "tags": ["施設"]},
+    {"entry": {"id": 158, "form": "zʌɹ.kɒl"}, "translations": [{"title": "対義語", "forms": ["映画館（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 159, "form": "wɪn.bɛl"}, "translations": [{"title": "施設", "forms": ["デパート"]}], "tags": ["施設"]},
+    {"entry": {"id": 160, "form": "tʃɪm.zæk"}, "translations": [{"title": "対義語", "forms": ["デパート（不便）"]}], "tags": ["対義語"]}
   ]
 }
