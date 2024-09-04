@@ -119,6 +119,26 @@
     {"entry": {"id": 117, "form": "pɑɪl.tʃɜɹ"}, "translations": [{"title": "職業", "forms": ["時の番人"]}], "tags": ["職業"]},
     {"entry": {"id": 118, "form": "dʒɪn.sɑɹ"}, "translations": [{"title": "職業", "forms": ["魂送り"]}], "tags": ["職業"]},
     {"entry": {"id": 119, "form": "ʃɑːl.vɜɹ"}, "translations": [{"title": "職業", "forms": ["声運び"]}], "tags": ["職業"]},
-    {"entry": {"id": 120, "form": "vɪs.lɑɪ"}, "translations": [{"title": "職業", "forms": ["夢織り"]}], "tags": ["職業"]}
+    {"entry": {"id": 120, "form": "vɪs.lɑɪ"}, "translations": [{"title": "職業", "forms": ["夢織り"]}], "tags": ["職業"]},
+    {"entry": {"id": 121, "form": "sɑːr.tʃi"}, "translations": [{"title": "日常", "forms": ["椅子"]}], "tags": ["日常"]},
+    {"entry": {"id": 122, "form": "kɑː.tʃɪn"}, "translations": [{"title": "日常", "forms": ["テーブル"]}], "tags": ["日常"]},
+    {"entry": {"id": 123, "form": "wɜːɹ.mɪ"}, "translations": [{"title": "日常", "forms": ["窓"]}], "tags": ["日常"]},
+    {"entry": {"id": 124, "form": "pɪk.tɹɪ"}, "translations": [{"title": "日常", "forms": ["カップ"]}], "tags": ["日常"]},
+    {"entry": {"id": 125, "form": "lɪn.tʃi"}, "translations": [{"title": "日常", "forms": ["皿"]}], "tags": ["日常"]},
+    {"entry": {"id": 126, "form": "mɑː.lɛk"}, "translations": [{"title": "日常", "forms": ["テレビ"]}], "tags": ["日常"]},
+    {"entry": {"id": 127, "form": "tʃɑː.mɪ"}, "translations": [{"title": "日常", "forms": ["電話"]}], "tags": ["日常"]},
+    {"entry": {"id": 128, "form": "sɪl.kɑ"}, "translations": [{"title": "日常", "forms": ["冷蔵庫"]}], "tags": ["日常"]},
+    {"entry": {"id": 129, "form": "fɪl.tɹə"}, "translations": [{"title": "日常", "forms": ["洗濯機"]}], "tags": ["日常"]},
+    {"entry": {"id": 130, "form": "ɹɑː.tʃɪ"}, "translations": [{"title": "日常", "forms": ["掃除機"]}], "tags": ["日常"]},
+    {"entry": {"id": 131, "form": "bɪk.tɪn"}, "translations": [{"title": "日常", "forms": ["時計"]}], "tags": ["日常"]},
+    {"entry": {"id": 132, "form": "sɪn.kɑ"}, "translations": [{"title": "日常", "forms": ["カーテン"]}], "tags": ["日常"]},
+    {"entry": {"id": 133, "form": "tʃɜː.lɪn"}, "translations": [{"title": "日常", "forms": ["ソファ"]}], "tags": ["日常"]},
+    {"entry": {"id": 134, "form": "wɪs.tɪ"}, "translations": [{"title": "日常", "forms": ["ランプ"]}], "tags": ["日常"]},
+    {"entry": {"id": 135, "form": "bɑː.nɪ"}, "translations": [{"title": "日常", "forms": ["棚"]}], "tags": ["日常"]},
+    {"entry": {"id": 136, "form": "lɑː.dɪ"}, "translations": [{"title": "日常", "forms": ["絨毯"]}], "tags": ["日常"]},
+    {"entry": {"id": 137, "form": "fɪn.tʃɪ"}, "translations": [{"title": "日常", "forms": ["枕"]}], "tags": ["日常"]},
+    {"entry": {"id": 138, "form": "tʃɑː.vɪ"}, "translations": [{"title": "日常", "forms": ["カーペット"]}], "tags": ["日常"]},
+    {"entry": {"id": 139, "form": "sɑː.tɪ"}, "translations": [{"title": "日常", "forms": ["ドア"]}], "tags": ["日常"]},
+    {"entry": {"id": 140, "form": "pɑː.tʃɪ"}, "translations": [{"title": "日常", "forms": ["ノート"]}], "tags": ["日常"]}
   ]
 }
