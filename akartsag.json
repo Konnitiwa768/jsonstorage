@@ -159,6 +159,26 @@
     {"entry": {"id": 157, "form": "pɑːv.kɪt"}, "translations": [{"title": "施設", "forms": ["映画館"]}], "tags": ["施設"]},
     {"entry": {"id": 158, "form": "zʌɹ.kɒl"}, "translations": [{"title": "対義語", "forms": ["映画館（不便）"]}], "tags": ["対義語"]},
     {"entry": {"id": 159, "form": "wɪn.bɛl"}, "translations": [{"title": "施設", "forms": ["デパート"]}], "tags": ["施設"]},
-    {"entry": {"id": 160, "form": "tʃɪm.zæk"}, "translations": [{"title": "対義語", "forms": ["デパート（不便）"]}], "tags": ["対義語"]}
+    {"entry": {"id": 160, "form": "tʃɪm.zæk"}, "translations": [{"title": "対義語", "forms": ["デパート（不便）"]}], "tags": ["対義語"]},
+    {"entry": {"id": 161, "form": "kʰiɹ.tʃɑ"}, "translations": [{"title": "施設", "forms": ["劇場"]}], "tags": ["施設"]},
+    {"entry": {"id": 162, "form": "mɤːd.dæʊ"}, "translations": [{"title": "施設", "forms": ["美術館"]}], "tags": ["施設"]},
+    {"entry": {"id": 163, "form": "vɨːʃ.pɑ"}, "translations": [{"title": "施設", "forms": ["ビル"]}], "tags": ["施設"]},
+    {"entry": {"id": 164, "form": "høːɡ.ɾeʊ"}, "translations": [{"title": "施設", "forms": ["博物館"]}], "tags": ["施設"]},
+    {"entry": {"id": 165, "form": "ɸʊɾ.tiɐ"}, "translations": [{"title": "施設", "forms": ["映画館"]}], "tags": ["施設"]},
+    {"entry": {"id": 166, "form": "ɕɤːɹ.pu"}, "translations": [{"title": "施設", "forms": ["市役所"]}], "tags": ["施設"]},
+    {"entry": {"id": 167, "form": "βuʒ.nɯː"}, "translations": [{"title": "施設", "forms": ["空港"]}], "tags": ["施設"]},
+    {"entry": {"id": 168, "form": "kʰrʲuːl.jɤ"}, "translations": [{"title": "施設", "forms": ["郵便局"]}], "tags": ["施設"]},
+    {"entry": {"id": 169, "form": "tsɨːf.ɭu"}, "translations": [{"title": "施設", "forms": ["診療所"]}], "tags": ["施設"]},
+    {"entry": {"id": 170, "form": "d͡ʑiŋ.pɑ"}, "translations": [{"title": "施設", "forms": ["スタジアム"]}], "tags": ["施設"]},
+    {"entry": {"id": 171, "form": "ʍoː.ɾɛʊ"}, "translations": [{"title": "施設", "forms": ["水族館"]}], "tags": ["施設"]},
+    {"entry": {"id": 172, "form": "pʰuːɹ.nɤ"}, "translations": [{"title": "施設", "forms": ["保健所"]}], "tags": ["施設"]},
+    {"entry": {"id": 173, "form": "ɹɨːʔ.kʰa"}, "translations": [{"title": "施設", "forms": ["公共施設"]}], "tags": ["施設"]},
+    {"entry": {"id": 174, "form": "ʒɤːɾ.nɯ"}, "translations": [{"title": "施設", "forms": ["会議室"]}], "tags": ["施設"]},
+    {"entry": {"id": 175, "form": "ɡʲiɹ.fø"}, "translations": [{"title": "施設", "forms": ["オフィス"]}], "tags": ["施設"]},
+    {"entry": {"id": 176, "form": "ʈʂʰuːm.ɳɑ"}, "translations": [{"title": "施設", "forms": ["温泉"]}], "tags": ["施設"]},
+    {"entry": {"id": 177, "form": "ɕiɽ.ɽɤʊ"}, "translations": [{"title": "施設", "forms": ["消防署"]}], "tags": ["施設"]},
+    {"entry": {"id": 178, "form": "ɦɔɾ.kjɤ"}, "translations": [{"title": "施設", "forms": ["港"]}], "tags": ["施設"]},
+    {"entry": {"id": 179, "form": "xɯːb.mɛʊ"}, "translations": [{"title": "施設", "forms": ["市場"]}], "tags": ["施設"]},
+    {"entry": {"id": 180, "form": "βɑɰ.tɕɤ"}, "translations": [{"title": "施設", "forms": ["モール"]}], "tags": ["施設"]}
   ]
 }
