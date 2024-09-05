@@ -259,6 +259,26 @@
     {"entry": {"id": 257, "form": "ˈʎoʊpɪs"}, "translations": [{"title": "魚", "forms": ["鮃"]}], "tags": ["魚"]},
     {"entry": {"id": 258, "form": "ˈmɛɬu"}, "translations": [{"title": "魚", "forms": ["鰈"]}], "tags": ["魚"]},
     {"entry": {"id": 259, "form": "tʃɪˈʎæɹ"}, "translations": [{"title": "魚", "forms": ["鮪"]}], "tags": ["魚"]},
-    {"entry": {"id": 260, "form": "ˈfrɒɬən"}, "translations": [{"title": "魚", "forms": ["鰤"]}], "tags": ["魚"]}
+    {"entry": {"id": 260, "form": "ˈfrɒɬən"}, "translations": [{"title": "魚", "forms": ["鰤"]}], "tags": ["魚"]},
+    {"entry": {"id": 261, "form": "ʋɯˈtrænˌsɪt"}, "translations": [{"title": "乗り物", "forms": ["消防車"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 262, "form": "ʲˈsʌfɪk"}, "translations": [{"title": "乗り物", "forms": ["戦車"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 263, "form": "ˈbɑɪkʷ"}, "translations": [{"title": "乗り物", "forms": ["自転車"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 264, "form": "ˈpɒɹoʊʲ"}, "translations": [{"title": "乗り物", "forms": ["電車"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 265, "form": "ˈɛɹɪkʷ"}, "translations": [{"title": "乗り物", "forms": ["飛行機"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 266, "form": "ˈðɪskɪlʷ"}, "translations": [{"title": "乗り物", "forms": ["バス"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 267, "form": "ˈtrænzɪtʲ"}, "translations": [{"title": "乗り物", "forms": ["タクシー"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 268, "form": "ˈwɒɹkʷ"}, "translations": [{"title": "乗り物", "forms": ["地下鉄"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 269, "form": "ˈmɪlɪnʷ"}, "translations": [{"title": "乗り物", "forms": ["船"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 270, "form": "ˈkætʃʲ"}, "translations": [{"title": "乗り物", "forms": ["ケーブルカー"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 271, "form": "ˈbɔːdʷ"}, "translations": [{"title": "乗り物", "forms": ["リムジン"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 272, "form": "ˈskɪʎ"}, "translations": [{"title": "乗り物", "forms": ["セスナ"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 273, "form": "ˈʃʌfɪlʷ"}, "translations": [{"title": "乗り物", "forms": ["バイク"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 274, "form": "ˈpɛtɹɪkʷ"}, "translations": [{"title": "乗り物", "forms": ["ジープ"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 275, "form": "ˈkɑːʃʲ"}, "translations": [{"title": "乗り物", "forms": ["モノレール"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 276, "form": "ˈlæɪtʷ"}, "translations": [{"title": "乗り物", "forms": ["トラム"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 277, "form": "ˈeɪɹɪʲ"}, "translations": [{"title": "乗り物", "forms": ["航空機"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 278, "form": "ˈkɒnʃʷ"}, "translations": [{"title": "乗り物", "forms": ["エレベーター"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 279, "form": "ˈpɪɹʲ"}, "translations": [{"title": "乗り物", "forms": ["スケートボード"]}], "tags": ["乗り物"]},
+    {"entry": {"id": 280, "form": "ˈboʊtʷ"}, "translations": [{"title": "乗り物", "forms": ["ヨット"]}], "tags": ["乗り物"]}
   ]
 }
