@@ -199,6 +199,26 @@
     {"entry": {"id": 197, "form": "ɕiɽ.ɽɤʊ"}, "translations": [{"title": "施設", "forms": ["消防署"]}], "tags": ["施設"]},
     {"entry": {"id": 198, "form": "ɦɔɾ.kjɤ"}, "translations": [{"title": "施設", "forms": ["港"]}], "tags": ["施設"]},
     {"entry": {"id": 199, "form": "xɯːb.mɛʊ"}, "translations": [{"title": "施設", "forms": ["市場"]}], "tags": ["施設"]},
-    {"entry": {"id": 200, "form": "βɑɰ.tɕɤ"}, "translations": [{"title": "施設", "forms": ["モール"]}], "tags": ["施設"]}
+    {"entry": {"id": 200, "form": "βɑɰ.tɕɤ"}, "translations": [{"title": "施設", "forms": ["モール"]}], "tags": ["施設"]},
+    {"entry": {"id": 201, "form": "ˈkæmˌpəʊn"}, "translations": [{"title": "調味料", "forms": ["カンポン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 202, "form": "ˈxæɹəm"}, "translations": [{"title": "調味料", "forms": ["クミン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 203, "form": "ˈsɪɹæɹ"}, "translations": [{"title": "調味料", "forms": ["シナモン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 204, "form": "ˈmɑɹæŋ"}, "translations": [{"title": "調味料", "forms": ["マジョラム"]}], "tags": ["調味料"]},
+    {"entry": {"id": 205, "form": "ˈdæʃɪn"}, "translations": [{"title": "調味料", "forms": ["ダシ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 206, "form": "ˈfɪɹɑ"}, "translations": [{"title": "調味料", "forms": ["フェンネル"]}], "tags": ["調味料"]},
+    {"entry": {"id": 207, "form": "ˈtʃɑɹæp"}, "translations": [{"title": "調味料", "forms": ["チャイブ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 208, "form": "ˈpɔːnə"}, "translations": [{"title": "調味料", "forms": ["ポピーシード"]}], "tags": ["調味料"]},
+    {"entry": {"id": 209, "form": "ˈbɛɹɪk"}, "translations": [{"title": "調味料", "forms": ["ベイリーフ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 210, "form": "ˈkɒɹʌm"}, "translations": [{"title": "調味料", "forms": ["コリアンダー"]}], "tags": ["調味料"]},
+    {"entry": {"id": 211, "form": "ˈnɒʃa"}, "translations": [{"title": "調味料", "forms": ["ナツメグ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 212, "form": "ˈzæɹko"}, "translations": [{"title": "調味料", "forms": ["ズッキーニ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 213, "form": "ˈsæɹɪm"}, "translations": [{"title": "調味料", "forms": ["サフラン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 214, "form": "ˈpæʃɪm"}, "translations": [{"title": "調味料", "forms": ["パセリ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 215, "form": "ˈɹeɪʃ"}, "translations": [{"title": "調味料", "forms": ["レモングラス"]}], "tags": ["調味料"]},
+    {"entry": {"id": 216, "form": "ˈkɒɹθ"}, "translations": [{"title": "調味料", "forms": ["カルダモン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 217, "form": "ˈdʒɑs"}, "translations": [{"title": "調味料", "forms": ["ジャスミン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 218, "form": "ˈwɒːm"}, "translations": [{"title": "調味料", "forms": ["ワイン"]}], "tags": ["調味料"]},
+    {"entry": {"id": 219, "form": "ˈhæʃɪk"}, "translations": [{"title": "調味料", "forms": ["ハーブ"]}], "tags": ["調味料"]},
+    {"entry": {"id": 220, "form": "ˈpɹæʃk"}, "translations": [{"title": "調味料", "forms": ["ペッパー"]}], "tags": ["調味料"]}
   ]
 }
