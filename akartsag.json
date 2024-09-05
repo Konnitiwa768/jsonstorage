@@ -219,6 +219,26 @@
     {"entry": {"id": 217, "form": "ˈdʒɑs"}, "translations": [{"title": "調味料", "forms": ["ジャスミン"]}], "tags": ["調味料"]},
     {"entry": {"id": 218, "form": "ˈwɒːm"}, "translations": [{"title": "調味料", "forms": ["ワイン"]}], "tags": ["調味料"]},
     {"entry": {"id": 219, "form": "ˈhæʃɪk"}, "translations": [{"title": "調味料", "forms": ["ハーブ"]}], "tags": ["調味料"]},
-    {"entry": {"id": 220, "form": "ˈpɹæʃk"}, "translations": [{"title": "調味料", "forms": ["ペッパー"]}], "tags": ["調味料"]}
+    {"entry": {"id": 220, "form": "ˈpɹæʃk"}, "translations": [{"title": "調味料", "forms": ["ペッパー"]}], "tags": ["調味料"]},
+    {"entry": {"id": 221, "form": "ˈkɑːmˌpɒn"}, "translations": [{"title": "ニュース", "forms": ["賠償"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 222, "form": "ˈɪmɪdʒ"}, "translations": [{"title": "ニュース", "forms": ["画像"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 223, "form": "ˈhɒlɪdeɪ"}, "translations": [{"title": "ニュース", "forms": ["休日"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 224, "form": "ˈrɪʧ"}, "translations": [{"title": "ニュース", "forms": ["裕福"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 225, "form": "ˈθɪɔːtə"}, "translations": [{"title": "ニュース", "forms": ["知識"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 226, "form": "ˈɡəʊv"}, "translations": [{"title": "ニュース", "forms": ["政府"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 227, "form": "ˈsæʃən"}, "translations": [{"title": "ニュース", "forms": ["会議"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 228, "form": "ˈækʃən"}, "translations": [{"title": "ニュース", "forms": ["活動"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 229, "form": "ˈkɒmɪʃən"}, "translations": [{"title": "ニュース", "forms": ["委員会"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 230, "form": "ˈhæbɪt"}, "translations": [{"title": "ニュース", "forms": ["習慣"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 231, "form": "ˈpɒlɪsi"}, "translations": [{"title": "ニュース", "forms": ["政策"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 232, "form": "ˈsɪɡnɪfɪkənt"}, "translations": [{"title": "ニュース", "forms": ["重要"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 233, "form": "ˈtrænslət"}, "translations": [{"title": "ニュース", "forms": ["翻訳"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 234, "form": "ˈmænɪdʒ"}, "translations": [{"title": "ニュース", "forms": ["管理"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 235, "form": "ˈreɪʃ"}, "translations": [{"title": "ニュース", "forms": ["比率"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 236, "form": "ˈɒpəˌrɪt"}, "translations": [{"title": "ニュース", "forms": ["機会"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 237, "form": "ˈkɒnflɪkt"}, "translations": [{"title": "ニュース", "forms": ["紛争"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 238, "form": "ˈlæns"}, "translations": [{"title": "ニュース", "forms": ["視点"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 239, "form": "ˈvɒlənteəri"}, "translations": [{"title": "ニュース", "forms": ["ボランティア"]}], "tags": ["ニュース"]},
+    {"entry": {"id": 240, "form": "ˈæɡriˌmɛnt"}, "translations": [{"title": "ニュース", "forms": ["合意"]}], "tags": ["ニュース"]}
   ]
 }
