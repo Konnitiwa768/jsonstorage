@@ -398,6 +398,26 @@
     {"entry": {"id": 396, "form": "ˈmɔːsɪviənek"}, "translations": [{"title": "元素", "forms": ["モスコビウム"]}], "tags": ["元素"]},
     {"entry": {"id": 397, "form": "ˈlɪvɹɛwɒniənek"}, "translations": [{"title": "元素", "forms": ["リバモリウム"]}], "tags": ["元素"]},
     {"entry": {"id": 398, "form": "tɛnˈneːsiənek"}, "translations": [{"title": "元素", "forms": ["テネシン"]}], "tags": ["元素"]},
-    {"entry": {"id": 399, "form": "ˈoʊganɛsənek"}, "translations": [{"title": "元素", "forms": ["オガネソン"]}], "tags": ["元素"]}
+    {"entry": {"id": 399, "form": "ˈoʊganɛsənek"}, "translations": [{"title": "元素", "forms": ["オガネソン"]}], "tags": ["元素"]},
+  {"id": 400, "form": "ˈpæskən", "translations": [{"title": "技術", "forms": ["パソコン"]}], "tags": ["技術"]},
+  {"id": 401, "form": "ˈsʊmətɒn", "translations": [{"title": "技術", "forms": ["スマートフォン"]}], "tags": ["技術"]},
+  {"id": 402, "form": "ˈɹoʊbɒtə", "translations": [{"title": "技術", "forms": ["ロボット"]}], "tags": ["技術"]},
+  {"id": 403, "form": "ˈaɪnɛkʊ", "translations": [{"title": "技術", "forms": ["AIネットワーク"]}], "tags": ["技術"]},
+  {"id": 404, "form": "ˈdroʊnə", "translations": [{"title": "技術", "forms": ["ドローン"]}], "tags": ["技術"]},
+  {"id": 405, "form": "ˈvɑːrtʃə", "translations": [{"title": "技術", "forms": ["バーチャルリアリティ"]}], "tags": ["技術"]},
+  {"id": 406, "form": "ˈkwæntə", "translations": [{"title": "技術", "forms": ["量子コンピュータ"]}], "tags": ["技術"]},
+  {"id": 407, "form": "ˈsaɪbɚsæ", "translations": [{"title": "技術", "forms": ["サイバーセキュリティ"]}], "tags": ["技術"]},
+  {"id": 408, "form": "ˈɔːtəʊmɑ", "translations": [{"title": "技術", "forms": ["オートメーション"]}], "tags": ["技術"]},
+  {"id": 409, "form": "ˈbaɪəʊtɛkʊ", "translations": [{"title": "技術", "forms": ["バイオテクノロジー"]}], "tags": ["技術"]},
+  {"id": 410, "form": "ˈsɪmjʊrə", "translations": [{"title": "技術", "forms": ["シミュレーション"]}], "tags": ["技術"]},
+  {"id": 411, "form": "ˈwaɪrɪ", "translations": [{"title": "技術", "forms": ["ワイヤレス通信"]}], "tags": ["技術"]},
+  {"id": 412, "form": "ˈreɪzəka", "translations": [{"title": "技術", "forms": ["レーザー技術"]}], "tags": ["技術"]},
+  {"id": 413, "form": "ˈhaɪɡɒn", "translations": [{"title": "技術", "forms": ["水素エネルギー技術"]}], "tags": ["技術"]},
+  {"id": 414, "form": "ˈɡɛnmoʊdə", "translations": [{"title": "技術", "forms": ["遺伝子改変技術"]}], "tags": ["技術"]},
+  {"id": 415, "form": "ˈdɪdʒɪrɛn", "translations": [{"title": "技術", "forms": ["デジタル革命"]}], "tags": ["技術"]},
+  {"id": 416, "form": "ˈnænəʊtɛk", "translations": [{"title": "技術", "forms": ["ナノテクノロジー"]}], "tags": ["技術"]},
+  {"id": 417, "form": "ˈkuːbɛdə", "translations": [{"title": "技術", "forms": ["ビッグデータ解析"]}], "tags": ["技術"]},
+  {"id": 418, "form": "ˈkɹaʊkəmʊ", "translations": [{"title": "技術", "forms": ["クラウドコンピューティング"]}], "tags": ["技術"]},
+  {"id": 419, "form": "ˈzɛrəʊɡrə", "translations": [{"title": "技術", "forms": ["無重力技術"]}], "tags": ["技術"]}
   ]
 }
