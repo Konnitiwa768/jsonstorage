@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>melvaiju Dictionary</title>
+    <title>sai Dictionary</title>
     <style>
       @font-face {
         font-family: "sai";
@@ -78,7 +78,7 @@
         };
 
         function loadDictionaryData() {
-            fetch('melvaiju.json')
+            fetch('sai.json')
                 .then(response => response.json())
                 .then(data => {
                     dictionaryData = data.words; // 修正: data.entries -> data.words
