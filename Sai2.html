@@ -186,7 +186,7 @@
         const word = dictionaryData[i];
         const wordItem = document.createElement("div");
         wordItem.className = "word-item";
-        wordItem.textContent = word.entry.form;
+        wordItem.textContent = word.form;
         wordItem.onclick = () => showWordDetails(word);
         wordListElement.appendChild(wordItem);
       }
