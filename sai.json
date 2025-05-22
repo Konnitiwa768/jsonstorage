@@ -1,4 +1,5 @@
 [
+ "words": [
   {
     "entry": {"id": 1, "form": "食/hek3"},
     "translations": [{"title": "食べる", "forms": ["eat"]}],
@@ -354,4 +355,5 @@
     "translations": [{"title": "文化", "forms": ["culture"]}],
     "tags": ["名詞"]
   }
+ ]
 ]
