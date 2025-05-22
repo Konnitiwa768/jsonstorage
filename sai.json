@@ -64,8 +64,6 @@
     { "id": 62, "form": "銅/tung4", "translation": "銅", "forms": ["copper"], "tags": ["名詞"] },
     { "id": 63, "form": "鉛/jyun4", "translation": "鉛", "forms": ["lead"], "tags": ["名詞"] },
     { "id": 64, "form": "宝石/gwong2 sek6", "translation": "鉱石", "forms": ["ore"], "tags": ["名詞"] },
-{
-  "words": [
     { "id": 65, "form": "父/baa4", "translation": "父", "forms": ["father"], "tags": ["名詞", "家族"] },
     { "id": 66, "form": "母/mou5", "translation": "母", "forms": ["mother"], "tags": ["名詞", "家族"] },
     { "id": 67, "form": "兄/hin1", "translation": "兄", "forms": ["older brother"], "tags": ["名詞", "家族"] },
