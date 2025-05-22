@@ -63,6 +63,28 @@
     { "id": 61, "form": "鉄/tit3", "translation": "鉄", "forms": ["iron"], "tags": ["名詞"] },
     { "id": 62, "form": "銅/tung4", "translation": "銅", "forms": ["copper"], "tags": ["名詞"] },
     { "id": 63, "form": "鉛/jyun4", "translation": "鉛", "forms": ["lead"], "tags": ["名詞"] },
-    { "id": 64, "form": "宝石/gwong2 sek6", "translation": "鉱石", "forms": ["ore"], "tags": ["名詞"] }
+    { "id": 64, "form": "宝石/gwong2 sek6", "translation": "鉱石", "forms": ["ore"], "tags": ["名詞"] },
+{
+  "words": [
+    { "id": 65, "form": "父/baa4", "translation": "父", "forms": ["father"], "tags": ["名詞", "家族"] },
+    { "id": 66, "form": "母/mou5", "translation": "母", "forms": ["mother"], "tags": ["名詞", "家族"] },
+    { "id": 67, "form": "兄/hin1", "translation": "兄", "forms": ["older brother"], "tags": ["名詞", "家族"] },
+    { "id": 68, "form": "弟/dai6", "translation": "弟", "forms": ["younger brother"], "tags": ["名詞", "家族"] },
+    { "id": 69, "form": "姉/ze4", "translation": "姉", "forms": ["older sister"], "tags": ["名詞", "家族"] },
+    { "id": 70, "form": "妹/mui6", "translation": "妹", "forms": ["younger sister"], "tags": ["名詞", "家族"] },
+    { "id": 71, "form": "初父/zo2 fu2", "translation": "祖父", "forms": ["grandfather"], "tags": ["名詞", "家族"] },
+    { "id": 72, "form": "初母/zo2 mou5", "translation": "祖母", "forms": ["grandmother"], "tags": ["名詞", "家族"] },
+    { "id": 73, "form": "夫/fu1", "translation": "夫", "forms": ["husband"], "tags": ["名詞", "家族"] },
+    { "id": 74, "form": "妻/cai1", "translation": "妻", "forms": ["wife"], "tags": ["名詞", "家族"] },
+    { "id": 75, "form": "親/chun1", "translation": "親", "forms": ["parent"], "tags": ["名詞", "家族"] },
+    { "id": 76, "form": "家/uk1", "translation": "家", "forms": ["home", "house"], "tags": ["名詞", "場所"] },
+    { "id": 77, "form": "訓家/hok6 haau6", "translation": "学校", "forms": ["school"], "tags": ["名詞", "場所"] },
+    { "id": 78, "form": "働家/gwong1 si1", "translation": "会社", "forms": ["company"], "tags": ["名詞", "場所"] },
+    { "id": 79, "form": "病院/beng6 jyun2", "translation": "病院", "forms": ["hospital"], "tags": ["名詞", "場所"] },
+    { "id": 80, "form": "店/ dim3", "translation": "店", "forms": ["shop", "store"], "tags": ["名詞", "場所"] },
+    { "id": 81, "form": "園/gung1 jyun4", "translation": "公園", "forms": ["park"], "tags": ["名詞", "場所"] },
+    { "id": 82, "form": "電車家/zaam6", "translation": "駅", "forms": ["station"], "tags": ["名詞", "場所"] },
+    { "id": 83, "form": "書家/tou4 syu1 gun2", "translation": "図書館", "forms": ["library"], "tags": ["名詞", "場所"] },
+    { "id": 84, "form": "売場/si5 coeng4", "translation": "市場", "forms": ["market"], "tags": ["名詞", "場所"] }
   ]
 }
