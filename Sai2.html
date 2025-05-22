@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>sai Dictionary with Tiny Console</title>
+  <style>
+    @font-face {
+      font-family: "sai";
+      src: url("https://raw.githubusercontent.com/kaeru2193/Phun-Resources/refs/heads/main/font/Phun-Sans/Phun-Sans-Rounded-Bold.ttf")
+        format("truetype");
+    }
+
+    body {
+      font-family: sans-serif;
+      background: #000000;
+      color: #fff;
+      padding-bottom: 120px; /* コンソール用スペース */
+      margin: 0;
+    }
+
+    #container {
+      width: 80%;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+
+    #word-list {
+      font-family: 'sans-serif';
+      margin-bottom: 20px;
+    }
+
+    .word-item {
+      padding: 5px;
+      border: 1px solid #ddd;
+      margin-bottom: 5px;
+      cursor: pointer;
+      color: #fff;
+      font-family: sai;
+      background-color: #111;
+      user-select: none;
+      transition: background-color 0.2s ease;
+    }
+    .word-item:hover {
+      background-color: #222;
+    }
+
+    #pagination {
+      margin-top: 10px;
+      color: #fff;
+    }
+
+    .page-link {
+      display: inline-block;
+      padding: 5px 10px;
+      margin: 2px;
+      border: 1px solid #ccc;
+      background-color: #ddd;
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
+      user-select: none;
+      transition: background-color 0.2s ease;
+    }
+
+    .page-link:hover {
+      background-color: #888;
+      color: white;
+    }
+
+    .page-link.current-page {
+      background-color: cyan;
+      color: black;
+    }
+
+    #word-details {
+      margin-top: 20px;
+    }
+
+    #toggle-font {
+      margin-bottom: 10px;
+      cursor: pointer;
+      background: none;
+      border: 1px solid #fff;
+      color: #fff;
+      padding: 5px 10px;
+      font-family: sai;
+    }
+
+    /* チビコンソールのスタイル */
+    #tiny-console {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100px;
+      background: #111;
+      border-top: 1px solid #555;
+      overflow-y: auto;
+      font-size: 12px;
+      padding: 5px;
+      box-sizing: border-box;
+      color: #eee;
+      font-family: monospace;
+      z-index: 1000;
+      user-select: text;
+    }
+
+    .console-line {
+      white-space: pre-wrap;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <button id="toggle-font">フォント切替</button>
+    <input
+      type="text"
+      id="search-input"
+      placeholder="検索..."
+      oninput="search()"
+      autocomplete="off"
+    />
+    <div id="word-list"></div>
+    <div id="pagination"></div>
+    <div id="word-details"></div>
+  </div>
+
+  <div id="tiny-console"></div>
+
+  <script>
+    let dictionaryData = [];
+    let currentPage = 1;
+    const itemsPerPage = 20;
+    const defaultFont = "Arial, sans-serif";
+    const madueyerFont = "sai, sans-serif";
+
+    window.onload = function () {
+      loadDictionaryData();
+      document.getElementById("toggle-font").onclick = toggleFont;
+    };
+
+    function logToConsole(msg) {
+      const consoleElement = document.getElementById("tiny-console");
+      const line = document.createElement("div");
+      line.className = "console-line";
+      line.textContent = msg;
+      consoleElement.appendChild(line);
+      consoleElement.scrollTop = consoleElement.scrollHeight;
+    }
+
+    function loadDictionaryData() {
+      logToConsole("辞書データの読み込みを開始...");
+      fetch("sai.json")
+        .then((response) => {
+          if (!response.ok)
+            throw new Error("HTTPエラー: " + response.status + " " + response.statusText);
+          logToConsole("sai.json 読み込み成功");
+          return response.json();
+        })
+        .then((data) => {
+          dictionaryData = data.words || [];
+          logToConsole("辞書データ読み込み完了: " + dictionaryData.length + "件");
+          renderWordList();
+          renderPagination();
+        })
+        .catch((error) => {
+          logToConsole("読み込みエラー: " + error.message);
+        });
+    }
+
+    function renderWordList() {
+      const wordListElement = document.getElementById("word-list");
+      wordListElement.innerHTML = "";
+
+      if (dictionaryData.length === 0) {
+        wordListElement.textContent = "データがありません。";
+        return;
+      }
+
+      const startIndex = (currentPage - 1) * itemsPerPage;
+      const endIndex = Math.min(startIndex + itemsPerPage, dictionaryData.length);
+
+      for (let i = startIndex; i < endIndex; i++) {
+        const word = dictionaryData[i];
+        const wordItem = document.createElement("div");
+        wordItem.className = "word-item";
+        wordItem.textContent = word.entry.form;
+        wordItem.onclick = () => showWordDetails(word);
+        wordListElement.appendChild(wordItem);
+      }
+    }
+
+    function renderPagination() {
+      const paginationElement = document.getElementById("pagination");
+      paginationElement.innerHTML = "";
+
+      const totalPages = Math.ceil(dictionaryData.length / itemsPerPage);
+      if (totalPages <= 1) return;
+
+      for (let i = 1; i <= totalPages; i++) {
+        const pageLink = document.createElement("span");
+        pageLink.className = "page-link";
+        pageLink.textContent = i;
+        if (i === currentPage) {
+          pageLink.classList.add("current-page");
+        }
+        pageLink.onclick = () => {
+          currentPage = i;
+          renderWordList();
+          renderPagination();
+        };
+        paginationElement.appendChild(pageLink);
+      }
+    }
+
+    function showWordDetails(word) {
+      const wordDetailsElement = document.getElementById("word-details");
+      wordDetailsElement.innerHTML = `
+        <h2>${word.entry.form}</h2>
+        <p>ID: ${word.entry.id}</p>
+        <h3>Translations:</h3>
+        <ul>
+          ${word.translations
+            .map((t) => `<li>${t.title}: ${t.forms.join(", ")}</li>`)
+            .join("")}
+        </ul>
+        <h3>Tags:</h3>
+        <ul>
+          ${word.tags.join(", ")}
+        </ul>
+      `;
+      logToConsole(`単語「${word.entry.form}」の詳細表示`);
+    }
+
+    function search() {
+      const searchInput = document.getElementById("search-input").value.toLowerCase();
+      const filteredWords = dictionaryData.filter((word) =>
+        word.entry.form.toLowerCase().includes(searchInput)
+      );
+      renderFilteredWords(filteredWords);
+      logToConsole(`検索実行: "${searchInput}" 結果 ${filteredWords.length}件`);
+    }
+
+    function renderFilteredWords(filteredWords) {
+      const wordListElement = document.getElementById("word-list");
+      wordListElement.innerHTML = "";
+
+      if (filteredWords.length === 0) {
+        wordListElement.textContent = "該当する単語がありません。";
+        return;
+      }
+
+      for (let word of filteredWords) {
+        const wordItem = document.createElement("div");
+        wordItem.className = "word-item";
+        wordItem.textContent = word.entry.form;
+        wordItem.onclick = () => showWordDetails(word);
+        wordListElement.appendChild(wordItem);
+      }
+    }
+
+    function toggleFont() {
+      const currentFont = document.body.style.fontFamily;
+      document.body.style.fontFamily =
+        currentFont === madueyerFont ? defaultFont : madueyerFont;
+      logToConsole(
+        "フォント切替: " +
+          (document.body.style.fontFamily === madueyerFont ? "saiフォント" : "デフォルト")
+      );
+    }
+  </script>
+</body>
+</html>
