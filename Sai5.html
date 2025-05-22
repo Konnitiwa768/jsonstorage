@@ -218,8 +218,8 @@
     function showWordDetails(word) {
       const wordDetailsElement = document.getElementById("word-details");
       wordDetailsElement.innerHTML = `
-        <h2>${word.entry.form}</h2>
-        <p>ID: ${word.entry.id}</p>
+        <h2>${word.form}</h2>
+        <p>ID: ${word.id}</p>
         <h3>Translations:</h3>
         <ul>
           ${word.translations
@@ -231,7 +231,7 @@
           ${word.tags.join(", ")}
         </ul>
       `;
-      logToConsole(`単語「${word.entry.form}」の詳細表示`);
+      logToConsole(`単語「${word.form}」の詳細表示`);
     }
 
     function search() {
@@ -255,7 +255,7 @@
       for (let word of filteredWords) {
         const wordItem = document.createElement("div");
         wordItem.className = "word-item";
-        wordItem.textContent = word.entry.form;
+        wordItem.textContent = word.form;
         wordItem.onclick = () => showWordDetails(word);
         wordListElement.appendChild(wordItem);
       }
