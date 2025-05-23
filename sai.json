@@ -74,7 +74,7 @@
     { "id": 72, "form": "初母/zo2 mou5", "translation": "祖母", "forms": ["grandmother"], "tags": ["名詞", "家族"] },
     { "id": 73, "form": "夫/fu1", "translation": "夫", "forms": ["husband"], "tags": ["名詞", "家族"] },
     { "id": 74, "form": "妻/cai1", "translation": "妻", "forms": ["wife"], "tags": ["名詞", "家族"] },
-    { "id": 75, "form": "親/chun1", "translation": "親", "forms": ["parent"], "tags": ["名詞", "家族"] ga1},
+    { "id": 75, "form": "親/chun1", "translation": "親", "forms": ["parent"], "tags": ["名詞", "家族"] },
     { "id": 76, "form": "家/uk1", "translation": "家", "forms": ["home", "house"], "tags": ["名詞", "場所"] },
     { "id": 77, "form": "訓家/hok6 ga1", "translation": "学校", "forms": ["school"], "tags": ["名詞", "場所"] },
     { "id": 78, "form": "働家/gwong1 ga1", "translation": "会社", "forms": ["company"], "tags": ["名詞", "場所"] },
@@ -83,6 +83,6 @@
     { "id": 81, "form": "園/jyun4", "translation": "公園", "forms": ["park"], "tags": ["名詞", "場所"] },
     { "id": 82, "form": "電車家/qie1 ce1 ga1", "translation": "駅", "forms": ["station"], "tags": ["名詞", "場所"] },
     { "id": 83, "form": "書家/syu1 ga1", "translation": "図書館", "forms": ["library"], "tags": ["名詞", "場所"] },
-    { "id": 84, "form": "売家/si5 ga1", "translation": "市場", "forms": ["market"], "tags": ["名詞", "場所"] }
+    { "id": 84, "form": "買家/ken4 ga1", "translation": "市場", "forms": ["market"], "tags": ["名詞", "場所"] }
   ]
 }
