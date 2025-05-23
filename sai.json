@@ -81,7 +81,7 @@
     { "id": 79, "form": "病家/beng6 ga1", "translation": "病院", "forms": ["hospital"], "tags": ["名詞", "場所"] },
     { "id": 80, "form": "店/ dim3", "translation": "店", "forms": ["shop", "store"], "tags": ["名詞", "場所"] },
     { "id": 81, "form": "園/jyun4", "translation": "公園", "forms": ["park"], "tags": ["名詞", "場所"] },
-    { "id": 82, "form": "電車家/qie1 ce1 ga1", "translation": "駅", "forms": ["station"], "tags": ["名詞", "場所"] },
+    { "id": 82, "form": "雷車家/lie1 ce1 ga1", "translation": "駅", "forms": ["station"], "tags": ["名詞", "場所"] },
     { "id": 83, "form": "書家/syu1 ga1", "translation": "図書館", "forms": ["library"], "tags": ["名詞", "場所"] },
     { "id": 84, "form": "買家/ken4 ga1", "translation": "市場", "forms": ["market"], "tags": ["名詞", "場所"] },
     { "id": 85, "form": "頭/tau4", "translation": "頭", "forms": ["head"], "tags": ["名詞", "部位"] },
