@@ -83,6 +83,26 @@
     { "id": 81, "form": "園/jyun4", "translation": "公園", "forms": ["park"], "tags": ["名詞", "場所"] },
     { "id": 82, "form": "電車家/qie1 ce1 ga1", "translation": "駅", "forms": ["station"], "tags": ["名詞", "場所"] },
     { "id": 83, "form": "書家/syu1 ga1", "translation": "図書館", "forms": ["library"], "tags": ["名詞", "場所"] },
-    { "id": 84, "form": "買家/ken4 ga1", "translation": "市場", "forms": ["market"], "tags": ["名詞", "場所"] }
+    { "id": 84, "form": "買家/ken4 ga1", "translation": "市場", "forms": ["market"], "tags": ["名詞", "場所"] },
+    { "id": 85, "form": "頭/tau4", "translation": "頭", "forms": ["head"], "tags": ["名詞", "部位"] },
+    { "id": 86, "form": "顔/ngaan2", "translation": "顔", "forms": ["face"], "tags": ["名詞", "部位"] },
+    { "id": 87, "form": "目/muk6", "translation": "目", "forms": ["eye"], "tags": ["名詞", "部位"] },
+    { "id": 88, "form": "耳/ji5", "translation": "耳", "forms": ["ear"], "tags": ["名詞", "部位"] },
+    { "id": 89, "form": "鼻/bei6", "translation": "鼻", "forms": ["nose"], "tags": ["名詞", "部位"] },
+    { "id": 90, "form": "口/hau2", "translation": "口", "forms": ["mouth"], "tags": ["名詞", "部位"] },
+    { "id": 91, "form": "歯/ci2", "translation": "歯", "forms": ["tooth", "teeth"], "tags": ["名詞", "部位"] },
+    { "id": 92, "form": "首/sau2", "translation": "首", "forms": ["neck"], "tags": ["名詞", "部位"] },
+    { "id": 93, "form": "胸/hung1", "translation": "胸", "forms": ["chest"], "tags": ["名詞", "部位"] },
+    { "id": 94, "form": "腹/fuk1", "translation": "腹", "forms": ["abdomen", "belly"], "tags": ["名詞", "部位"] },
+    { "id": 95, "form": "心臓/sam1 zong6", "translation": "心臓", "forms": ["heart"], "tags": ["名詞", "臓器"] },
+    { "id": 96, "form": "肺/fai3", "translation": "肺", "forms": ["lung", "lungs"], "tags": ["名詞", "臓器"] },
+    { "id": 97, "form": "肝臓/gon1 zong6", "translation": "肝臓", "forms": ["liver"], "tags": ["名詞", "臓器"] },
+    { "id": 98, "form": "腎臓/san6 zong6", "translation": "腎臓", "forms": ["kidney", "kidneys"], "tags": ["名詞", "臓器"] },
+    { "id": 99, "form": "胃/ai6", "translation": "胃", "forms": ["stomach"], "tags": ["名詞", "臓器"] },
+    { "id": 100, "form": "腸/soeng4", "translation": "腸", "forms": ["intestine", "intestines"], "tags": ["名詞", "臓器"] },
+    { "id": 101, "form": "手/sau2", "translation": "手", "forms": ["hand", "hands"], "tags": ["名詞", "部位"] },
+    { "id": 102, "form": "足/zeoi1", "translation": "足", "forms": ["foot", "feet"], "tags": ["名詞", "部位"] },
+    { "id": 103, "form": "指/zi2", "translation": "指", "forms": ["finger", "fingers"], "tags": ["名詞", "部位"] },
+    { "id": 104, "form": "骨/gwat1", "translation": "骨", "forms": ["bone", "bones"], "tags": ["名詞", "部位"] }
   ]
 }
