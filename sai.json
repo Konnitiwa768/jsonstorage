@@ -103,6 +103,9 @@
     { "id": 101, "form": "手/sau2", "translation": "手", "forms": ["hand", "hands"], "tags": ["名詞", "部位"] },
     { "id": 102, "form": "足/zeoi1", "translation": "足", "forms": ["foot", "feet"], "tags": ["名詞", "部位"] },
     { "id": 103, "form": "指/zi2", "translation": "指", "forms": ["finger", "fingers"], "tags": ["名詞", "部位"] },
-    { "id": 104, "form": "骨/gwat1", "translation": "骨", "forms": ["bone", "bones"], "tags": ["名詞", "部位"] }
+    { "id": 104, "form": "骨/gwat1", "translation": "骨", "forms": ["bone", "bones"], "tags": ["名詞", "部位"] },
+    { "id": 105, "form": "葱/zinn2", "translation": "葱", "forms": ["green onion"], "tags": ["名詞", "農作物"] },
+    { "id": 106, "form": "蔔/ba4", "translation": "ラディッシュ,だいこん,カブ", "forms": ["radish"], "tags": ["名詞", "農作物"] },
+    { "id": 107, "form": "蔔柑/ba4 ham3", "translation": "ブドウ", "forms": ["grape"], "tags": ["名詞", "農作物"] }
   ]
 }
