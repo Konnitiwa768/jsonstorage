@@ -160,7 +160,7 @@
           return response.json();
         })
         .then((data) => {
-          dictionaryData = data.words || [];
+          dictionaryData = data.word || [];
           logToConsole("辞書データ読み込み完了: " + dictionaryData.length + "件");
           renderWordList();
           renderPagination();
