@@ -186,7 +186,7 @@
         const word = dictionaryData[i];
         const wordItem = document.createElement("div");
         wordItem.className = "word-item";
-        wordItem.textContent = word.form;
+        wordItem.textContent = words.entry.form;
         wordItem.onclick = () => showWordDetails(word);
         wordListElement.appendChild(wordItem);
       }
@@ -218,8 +218,8 @@
     function showWordDetails(word) {
       const wordDetailsElement = document.getElementById("word-details");
       wordDetailsElement.innerHTML = `
-        <h2>${word.form}</h2>
-        <p>ID: ${word.id}</p>
+        <h2>${words.entry.form}</h2>
+        <p>ID: ${words.entry.id}</p>
         <h3>Translations:</h3>
         <ul>
           ${word.translations
@@ -231,7 +231,7 @@
           ${word.tags.join(", ")}
         </ul>
       `;
-      logToConsole(`単語「${word.form}」の詳細表示`);
+      logToConsole(`単語「${words.entry.form}」の詳細表示`);
     }
 
     function search() {
@@ -255,7 +255,7 @@
       for (let word of filteredWords) {
         const wordItem = document.createElement("div");
         wordItem.className = "word-item";
-        wordItem.textContent = word.form;
+        wordItem.textContent = words.entry.form;
         wordItem.onclick = () => showWordDetails(word);
         wordListElement.appendChild(wordItem);
       }
