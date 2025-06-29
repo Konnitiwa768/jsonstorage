@@ -106,6 +106,9 @@
     { "id": 104, "form": "骨/gwat1", "translation": "骨", "forms": ["bone", "bones"], "tags": ["名詞", "部位"] },
     { "id": 105, "form": "葱/zinn2", "translation": "葱", "forms": ["green onion"], "tags": ["名詞", "農作物"] },
     { "id": 106, "form": "蔔/ba4", "translation": "ラディッシュ,だいこん,カブ", "forms": ["radish"], "tags": ["名詞", "農作物"] },
-    { "id": 107, "form": "蔔柑/ba4 ham3", "translation": "ブドウ", "forms": ["grape"], "tags": ["名詞", "農作物"] }
+    { "id": 107, "form": "蔔柑/ba4 ham3", "translation": "ブドウ", "forms": ["grape"], "tags": ["名詞", "農作物"] },
+    { "id": 108, "form": "勺/chaang1", "translation": "リットル", "forms": ["little"], "tags": ["名詞", "単位"] },
+    { "id": 109, "form": "磁玉/jung3 tam2", "translation": "磁石", "forms": ["magnet"], "tags": ["名詞", "科学"] },
+    { "id": 110, "form": "勺万/chaang1 wang3", "translation": "満タン", "forms": ["full"], "tags": ["名詞", "単位"] }
   ]
 }
